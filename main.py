@@ -1,4 +1,5 @@
 import os
+import signal
 import time
 import subprocess
 import compare
@@ -9,6 +10,7 @@ from device import Device
 
 def get_cur_time():
     return time.strftime("%Y-%m-%d_%H-%M-%S", time.localtime(time.time()))
+
 
 # result log files list
 event_logs = []
@@ -69,8 +71,14 @@ for i in range(len(models)):
 # test start!
 sequence = 1
 scenarios = scenario.SCENARIO * 5
+videos = []
 for app in scenarios:
     print("\nrun : {} [{}/{}] ".format(app, sequence, len(scenarios)))
+    record_cmd = f"adb shell screenrecord --size 1440x2960 /sdcard/{sequence}_{app}.mp4"
+    videos.append(f"/sdcard/{sequence}_{app}.mp4")
+    record = subprocess.Popen(record_cmd, stdout=subprocess.PIPE, shell=False)
+    time.sleep(1)
+
     for model in models:
         position = model.ui_info[app]
         x = position.split(",")[0]
@@ -102,6 +110,7 @@ for app in scenarios:
         proc_meminfo_logs[i].flush()
         dumpsys_meminfo_logs[i].flush()
 
+    record.send_signal(signal.SIGTERM)
     for model in models:
         model.press_home()
     time.sleep(3)
@@ -130,7 +139,11 @@ while True:
             done += 1
             if done == len(bugreports):
                 print("pulled all bugreport log...!")
-                exit(0)
 
-os.system("adb kill-server")
-os.system("adb start-server")
+                os.system("mkdir videos")
+                os.chdir("videos")
+                for video in videos:
+                    os.system("adb pull " + video)
+                os.system("adb kill-server")
+                os.system("adb start-server")
+                exit(0)
