@@ -1,0 +1,6720 @@
+2023-04-12_23-43-01
+run this app : Bitmoji
+
+MemTotal:        5474772 kB
+MemFree:          279044 kB
+MemAvailable:    3106716 kB
+Buffers:           40856 kB
+Cached:          2899724 kB
+SwapCached:        51184 kB
+Active:          2131700 kB
+Inactive:        1719848 kB
+Active(anon):     578908 kB
+Inactive(anon):   334408 kB
+Active(file):    1552792 kB
+Inactive(file):  1385440 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:        1998304 kB
+Dirty:              1508 kB
+Writeback:             0 kB
+AnonPages:        898044 kB
+Mapped:           991456 kB
+Shmem:              2292 kB
+Slab:             303116 kB
+SReclaimable:     120608 kB
+SUnreclaim:       182508 kB
+KernelStack:       42112 kB
+PageTables:        77828 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   140864772 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-43-14
+run this app : Amazon Seller
+
+MemTotal:        5474772 kB
+MemFree:          149252 kB
+MemAvailable:    2983096 kB
+Buffers:           41252 kB
+Cached:          2905496 kB
+SwapCached:        51900 kB
+Active:          2190560 kB
+Inactive:        1725648 kB
+Active(anon):     635172 kB
+Inactive(anon):   336728 kB
+Active(file):    1555388 kB
+Inactive(file):  1388920 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:        1999364 kB
+Dirty:               776 kB
+Writeback:             0 kB
+AnonPages:        957080 kB
+Mapped:          1014312 kB
+Shmem:              2440 kB
+Slab:             303480 kB
+SReclaimable:     120800 kB
+SUnreclaim:       182680 kB
+KernelStack:       44208 kB
+PageTables:        80532 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   144213136 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-43-27
+run this app : WhatsApp
+
+MemTotal:        5474772 kB
+MemFree:          113852 kB
+MemAvailable:    2910608 kB
+Buffers:           39320 kB
+Cached:          2870148 kB
+SwapCached:        51912 kB
+Active:          2166744 kB
+Inactive:        1747700 kB
+Active(anon):     658328 kB
+Inactive(anon):   349084 kB
+Active(file):    1508416 kB
+Inactive(file):  1398616 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:        1993400 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:        992840 kB
+Mapped:          1032684 kB
+Shmem:              2436 kB
+Slab:             303796 kB
+SReclaimable:     121176 kB
+SUnreclaim:       182620 kB
+KernelStack:       45248 kB
+PageTables:        81592 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   146179172 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             320 kB
+
+
+
+2023-04-12_23-44-15
+run this app : Candy Crush Jelly
+
+MemTotal:        5474772 kB
+MemFree:           92916 kB
+MemAvailable:    2536360 kB
+Buffers:           35704 kB
+Cached:          2522220 kB
+SwapCached:        50744 kB
+Active:          1929888 kB
+Inactive:        1799944 kB
+Active(anon):     662888 kB
+Inactive(anon):   512080 kB
+Active(file):    1267000 kB
+Inactive(file):  1287864 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:        1973824 kB
+Dirty:              2636 kB
+Writeback:             0 kB
+AnonPages:       1162576 kB
+Mapped:          1056944 kB
+Shmem:              3028 kB
+Slab:             301176 kB
+SReclaimable:     118888 kB
+SUnreclaim:       182288 kB
+KernelStack:       46048 kB
+PageTables:        84200 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   148147428 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-44-33
+run this app : Candy Crush Saga
+
+MemTotal:        5474772 kB
+MemFree:          153464 kB
+MemAvailable:    2341080 kB
+Buffers:           32432 kB
+Cached:          2271464 kB
+SwapCached:        48500 kB
+Active:          1835800 kB
+Inactive:        1751860 kB
+Active(anon):     686300 kB
+Inactive(anon):   600408 kB
+Active(file):    1149500 kB
+Inactive(file):  1151452 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:        1974592 kB
+Dirty:              2856 kB
+Writeback:             0 kB
+AnonPages:       1276404 kB
+Mapped:          1090892 kB
+Shmem:              2944 kB
+Slab:             297624 kB
+SReclaimable:     115056 kB
+SUnreclaim:       182568 kB
+KernelStack:       47200 kB
+PageTables:        85800 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   150091912 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:              16 kB
+
+
+
+2023-04-12_23-44-45
+run this app : NYT Games
+
+MemTotal:        5474772 kB
+MemFree:           95672 kB
+MemAvailable:    2200148 kB
+Buffers:           49636 kB
+Cached:          2171796 kB
+SwapCached:        47776 kB
+Active:          1892736 kB
+Inactive:        1767020 kB
+Active(anon):     783652 kB
+Inactive(anon):   657520 kB
+Active(file):    1109084 kB
+Inactive(file):  1109500 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:        1963492 kB
+Dirty:              1888 kB
+Writeback:             0 kB
+AnonPages:       1430792 kB
+Mapped:          1139148 kB
+Shmem:              2848 kB
+Slab:             296920 kB
+SReclaimable:     113508 kB
+SUnreclaim:       183412 kB
+KernelStack:       50272 kB
+PageTables:        88432 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   153468628 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-44-57
+run this app : Simple PDF Reader
+
+MemTotal:        5474772 kB
+MemFree:           91144 kB
+MemAvailable:    2126100 kB
+Buffers:           49100 kB
+Cached:          2104652 kB
+SwapCached:        41968 kB
+Active:          1891700 kB
+Inactive:        1768232 kB
+Active(anon):     796920 kB
+Inactive(anon):   712496 kB
+Active(file):    1094780 kB
+Inactive(file):  1055736 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:        1945224 kB
+Dirty:              5696 kB
+Writeback:             0 kB
+AnonPages:       1499700 kB
+Mapped:          1155216 kB
+Shmem:              2932 kB
+Slab:             296012 kB
+SReclaimable:     110608 kB
+SUnreclaim:       185404 kB
+KernelStack:       53744 kB
+PageTables:        93444 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   160167884 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-45-19
+run this app : Crossy Road
+
+MemTotal:        5474772 kB
+MemFree:           93268 kB
+MemAvailable:    1713428 kB
+Buffers:           47788 kB
+Cached:          1697480 kB
+SwapCached:        39404 kB
+Active:          1683696 kB
+Inactive:        1635468 kB
+Active(anon):     790952 kB
+Inactive(anon):   786480 kB
+Active(file):     892744 kB
+Inactive(file):   848988 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:        1684836 kB
+Dirty:              4340 kB
+Writeback:             0 kB
+AnonPages:       1570104 kB
+Mapped:          1101796 kB
+Shmem:              3336 kB
+Slab:             285228 kB
+SReclaimable:      98580 kB
+SUnreclaim:       186648 kB
+KernelStack:       57408 kB
+PageTables:        98268 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   163835920 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             160 kB
+
+
+
+2023-04-12_23-45-35
+run this app : FaceApp
+
+MemTotal:        5474772 kB
+MemFree:           91004 kB
+MemAvailable:    1732752 kB
+Buffers:           34788 kB
+Cached:          1732496 kB
+SwapCached:        40068 kB
+Active:          1684116 kB
+Inactive:        1586540 kB
+Active(anon):     753684 kB
+Inactive(anon):   753324 kB
+Active(file):     930432 kB
+Inactive(file):   833216 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:        1501632 kB
+Dirty:              6176 kB
+Writeback:             0 kB
+AnonPages:       1500384 kB
+Mapped:          1200996 kB
+Shmem:              3160 kB
+Slab:             285756 kB
+SReclaimable:      97928 kB
+SUnreclaim:       187828 kB
+KernelStack:       59968 kB
+PageTables:       101676 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   167769720 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-45-46
+run this app : Lyft
+
+MemTotal:        5474772 kB
+MemFree:          166884 kB
+MemAvailable:    1829584 kB
+Buffers:           28236 kB
+Cached:          1760832 kB
+SwapCached:        42820 kB
+Active:          1585748 kB
+Inactive:        1588880 kB
+Active(anon):     694212 kB
+Inactive(anon):   695344 kB
+Active(file):     891536 kB
+Inactive(file):   893536 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:        1339468 kB
+Dirty:               928 kB
+Writeback:             0 kB
+AnonPages:       1383016 kB
+Mapped:          1179580 kB
+Shmem:              3196 kB
+Slab:             285324 kB
+SReclaimable:      96984 kB
+SUnreclaim:       188340 kB
+KernelStack:       60992 kB
+PageTables:       102868 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   169765448 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             336 kB
+
+
+
+2023-04-12_23-46-00
+run this app : Pou
+
+MemTotal:        5474772 kB
+MemFree:           97136 kB
+MemAvailable:    1774684 kB
+Buffers:           28728 kB
+Cached:          1778972 kB
+SwapCached:        44840 kB
+Active:          1617784 kB
+Inactive:        1604468 kB
+Active(anon):     709852 kB
+Inactive(anon):   712224 kB
+Active(file):     907932 kB
+Inactive(file):   892244 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:        1285352 kB
+Dirty:              2380 kB
+Writeback:             0 kB
+AnonPages:       1409348 kB
+Mapped:          1212364 kB
+Shmem:              7408 kB
+Slab:             286700 kB
+SReclaimable:      96468 kB
+SUnreclaim:       190232 kB
+KernelStack:       63120 kB
+PageTables:       105764 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   173221648 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             196 kB
+
+
+
+2023-04-12_23-46-24
+run this app : Hide 'N Seek!
+
+MemTotal:        5474772 kB
+MemFree:           91660 kB
+MemAvailable:    1479592 kB
+Buffers:           18496 kB
+Cached:          1502652 kB
+SwapCached:        24032 kB
+Active:          1568444 kB
+Inactive:        1553388 kB
+Active(anon):     811484 kB
+Inactive(anon):   796648 kB
+Active(file):     756960 kB
+Inactive(file):   756740 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:        1016028 kB
+Dirty:              7408 kB
+Writeback:             0 kB
+AnonPages:       1595028 kB
+Mapped:          1036748 kB
+Shmem:              7492 kB
+Slab:             283020 kB
+SReclaimable:      90192 kB
+SUnreclaim:       192828 kB
+KernelStack:       66672 kB
+PageTables:       111332 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   178945192 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:              20 kB
+
+
+
+2023-04-12_23-46-37
+run this app : Telegram
+
+MemTotal:        5474772 kB
+MemFree:           93996 kB
+MemAvailable:    1400712 kB
+Buffers:           18912 kB
+Cached:          1421520 kB
+SwapCached:        16212 kB
+Active:          1479084 kB
+Inactive:        1478324 kB
+Active(anon):     762924 kB
+Inactive(anon):   761488 kB
+Active(file):     716160 kB
+Inactive(file):   716836 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:         905580 kB
+Dirty:               592 kB
+Writeback:             0 kB
+AnonPages:       1510148 kB
+Mapped:           993528 kB
+Shmem:              7324 kB
+Slab:             283884 kB
+SReclaimable:      89168 kB
+SUnreclaim:       194716 kB
+KernelStack:       68880 kB
+PageTables:       114224 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   182869700 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             684 kB
+
+
+
+2023-04-12_23-46-51
+run this app : Signal
+
+MemTotal:        5474772 kB
+MemFree:           93880 kB
+MemAvailable:    1288588 kB
+Buffers:           19300 kB
+Cached:          1310272 kB
+SwapCached:        14752 kB
+Active:          1406768 kB
+Inactive:        1406128 kB
+Active(anon):     745984 kB
+Inactive(anon):   745436 kB
+Active(file):     660784 kB
+Inactive(file):   660692 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:         774992 kB
+Dirty:              1036 kB
+Writeback:             0 kB
+AnonPages:       1477992 kB
+Mapped:           925932 kB
+Shmem:              7736 kB
+Slab:             283784 kB
+SReclaimable:      88188 kB
+SUnreclaim:       195596 kB
+KernelStack:       69664 kB
+PageTables:       116076 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   184850576 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            1480 kB
+
+
+
+2023-04-12_23-47-08
+run this app : Kindle
+
+MemTotal:        5474772 kB
+MemFree:          142872 kB
+MemAvailable:    1230420 kB
+Buffers:           15964 kB
+Cached:          1207356 kB
+SwapCached:        15748 kB
+Active:          1405316 kB
+Inactive:        1317196 kB
+Active(anon):     765132 kB
+Inactive(anon):   741816 kB
+Active(file):     640184 kB
+Inactive(file):   575380 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:         617752 kB
+Dirty:              2388 kB
+Writeback:             4 kB
+AnonPages:       1491368 kB
+Mapped:           918200 kB
+Shmem:              7756 kB
+Slab:             283752 kB
+SReclaimable:      85696 kB
+SUnreclaim:       198056 kB
+KernelStack:       72128 kB
+PageTables:       120156 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   190193360 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-47-22
+run this app : Firefox
+
+MemTotal:        5474772 kB
+MemFree:          100628 kB
+MemAvailable:    1204400 kB
+Buffers:           16156 kB
+Cached:          1223748 kB
+SwapCached:        13504 kB
+Active:          1372340 kB
+Inactive:        1379776 kB
+Active(anon):     757756 kB
+Inactive(anon):   762508 kB
+Active(file):     614584 kB
+Inactive(file):   617268 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:         562324 kB
+Dirty:               960 kB
+Writeback:             0 kB
+AnonPages:       1507180 kB
+Mapped:           933720 kB
+Shmem:              7696 kB
+Slab:             285460 kB
+SReclaimable:      85564 kB
+SUnreclaim:       199896 kB
+KernelStack:       73280 kB
+PageTables:       119520 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   186417556 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-47-42
+run this app : Coinbase
+
+MemTotal:        5474772 kB
+MemFree:          102856 kB
+MemAvailable:    1116760 kB
+Buffers:           14128 kB
+Cached:          1136440 kB
+SwapCached:        13108 kB
+Active:          1341684 kB
+Inactive:        1335888 kB
+Active(anon):     770612 kB
+Inactive(anon):   764412 kB
+Active(file):     571072 kB
+Inactive(file):   571476 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:         399864 kB
+Dirty:              1460 kB
+Writeback:             0 kB
+AnonPages:       1521848 kB
+Mapped:           922508 kB
+Shmem:              8020 kB
+Slab:             287896 kB
+SReclaimable:      84440 kB
+SUnreclaim:       203456 kB
+KernelStack:       75776 kB
+PageTables:       121632 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   187881532 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            1664 kB
+
+
+
+2023-04-12_23-48-05
+run this app : Candy Crush Soda
+
+MemTotal:        5474772 kB
+MemFree:           92176 kB
+MemAvailable:    1058108 kB
+Buffers:           10956 kB
+Cached:          1091868 kB
+SwapCached:        14664 kB
+Active:          1237328 kB
+Inactive:        1214356 kB
+Active(anon):     678468 kB
+Inactive(anon):   678140 kB
+Active(file):     558860 kB
+Inactive(file):   536216 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:          76896 kB
+Dirty:              3824 kB
+Writeback:             0 kB
+AnonPages:       1342336 kB
+Mapped:           860092 kB
+Shmem:              7776 kB
+Slab:             294276 kB
+SReclaimable:      83436 kB
+SUnreclaim:       210840 kB
+KernelStack:       76736 kB
+PageTables:       125812 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   193161888 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:              64 kB
+
+
+
+2023-04-12_23-48-33
+run this app : Kids Transport
+
+MemTotal:        5474772 kB
+MemFree:           13904 kB
+MemAvailable:     755760 kB
+Buffers:           15276 kB
+Cached:           861256 kB
+SwapCached:        12940 kB
+Active:          1198644 kB
+Inactive:        1193168 kB
+Active(anon):     757544 kB
+Inactive(anon):   761660 kB
+Active(file):     441100 kB
+Inactive(file):   431508 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:       1509980 kB
+Mapped:           635984 kB
+Shmem:              3496 kB
+Slab:             295656 kB
+SReclaimable:      80220 kB
+SUnreclaim:       215436 kB
+KernelStack:       79184 kB
+PageTables:       130296 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   198499868 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-49-02
+run this app : Hill Climb Racing
+
+MemTotal:        5474772 kB
+MemFree:           95120 kB
+MemAvailable:     516504 kB
+Buffers:            6196 kB
+Cached:           553200 kB
+SwapCached:        10672 kB
+Active:          1087224 kB
+Inactive:        1091628 kB
+Active(anon):     811824 kB
+Inactive(anon):   813360 kB
+Active(file):     275400 kB
+Inactive(file):   278268 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:           8628 kB
+Dirty:              4216 kB
+Writeback:             0 kB
+AnonPages:       1615828 kB
+Mapped:           445368 kB
+Shmem:              5456 kB
+Slab:             295100 kB
+SReclaimable:      77156 kB
+SUnreclaim:       217944 kB
+KernelStack:       81264 kB
+PageTables:       130560 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   195260360 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-49-15
+run this app : Call Recorder
+
+MemTotal:        5474772 kB
+MemFree:           87828 kB
+MemAvailable:     532240 kB
+Buffers:            5072 kB
+Cached:           577852 kB
+SwapCached:        11112 kB
+Active:          1126848 kB
+Inactive:        1115764 kB
+Active(anon):     838240 kB
+Inactive(anon):   827640 kB
+Active(file):     288608 kB
+Inactive(file):   288124 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:                88 kB
+Writeback:             0 kB
+AnonPages:       1651640 kB
+Mapped:           479928 kB
+Shmem:              5104 kB
+Slab:             295220 kB
+SReclaimable:      77088 kB
+SUnreclaim:       218132 kB
+KernelStack:       82112 kB
+PageTables:       132156 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   198628648 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             504 kB
+
+
+
+2023-04-12_23-49-28
+run this app : Kik
+
+MemTotal:        5474772 kB
+MemFree:           28672 kB
+MemAvailable:     561108 kB
+Buffers:            5868 kB
+Cached:           664328 kB
+SwapCached:        14452 kB
+Active:          1167148 kB
+Inactive:        1167652 kB
+Active(anon):     834516 kB
+Inactive(anon):   834984 kB
+Active(file):     332632 kB
+Inactive(file):   332668 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:             60 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:       1658740 kB
+Mapped:           494028 kB
+Shmem:              4840 kB
+Slab:             292356 kB
+SReclaimable:      76000 kB
+SUnreclaim:       216356 kB
+KernelStack:       82224 kB
+PageTables:       126204 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   185674172 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             440 kB
+
+
+
+2023-04-12_23-49-48
+run this app : Color Fill 3D
+
+MemTotal:        5474772 kB
+MemFree:           66596 kB
+MemAvailable:     708088 kB
+Buffers:            7628 kB
+Cached:           771528 kB
+SwapCached:        15900 kB
+Active:          1191560 kB
+Inactive:        1198912 kB
+Active(anon):     803548 kB
+Inactive(anon):   812380 kB
+Active(file):     388012 kB
+Inactive(file):   386532 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:          37468 kB
+Dirty:               784 kB
+Writeback:             0 kB
+AnonPages:       1605344 kB
+Mapped:           620080 kB
+Shmem:              3516 kB
+Slab:             291704 kB
+SReclaimable:      75624 kB
+SUnreclaim:       216080 kB
+KernelStack:       81520 kB
+PageTables:       123644 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   182288500 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             232 kB
+
+
+
+2023-04-12_23-50-07
+run this app : Etsy
+
+MemTotal:        5474772 kB
+MemFree:           98088 kB
+MemAvailable:     624736 kB
+Buffers:            7092 kB
+Cached:           656880 kB
+SwapCached:        15192 kB
+Active:          1192472 kB
+Inactive:        1166700 kB
+Active(anon):     844564 kB
+Inactive(anon):   854776 kB
+Active(file):     347908 kB
+Inactive(file):   311924 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:            316 kB
+Dirty:              4704 kB
+Writeback:             0 kB
+AnonPages:       1689332 kB
+Mapped:           524036 kB
+Shmem:              3552 kB
+Slab:             291948 kB
+SReclaimable:      75360 kB
+SUnreclaim:       216588 kB
+KernelStack:       83648 kB
+PageTables:       126300 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   183622724 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             464 kB
+
+
+
+2023-04-12_23-50-20
+run this app : Pi
+
+MemTotal:        5474772 kB
+MemFree:          190760 kB
+MemAvailable:     612976 kB
+Buffers:            7572 kB
+Cached:           552808 kB
+SwapCached:        12708 kB
+Active:          1134408 kB
+Inactive:        1142852 kB
+Active(anon):     869208 kB
+Inactive(anon):   852648 kB
+Active(file):     265200 kB
+Inactive(file):   290204 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:         130116 kB
+Dirty:              1188 kB
+Writeback:             0 kB
+AnonPages:       1711468 kB
+Mapped:           442184 kB
+Shmem:              3772 kB
+Slab:             291532 kB
+SReclaimable:      75352 kB
+SUnreclaim:       216180 kB
+KernelStack:       81520 kB
+PageTables:       119092 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   171515944 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             240 kB
+
+
+
+2023-04-12_23-50-41
+run this app : Soccer Star
+
+MemTotal:        5474772 kB
+MemFree:          142152 kB
+MemAvailable:     728068 kB
+Buffers:            5556 kB
+Cached:           717784 kB
+SwapCached:        11832 kB
+Active:          1292080 kB
+Inactive:        1201220 kB
+Active(anon):     932356 kB
+Inactive(anon):   841604 kB
+Active(file):     359724 kB
+Inactive(file):   359616 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:         255996 kB
+Dirty:              3672 kB
+Writeback:             0 kB
+AnonPages:       1765724 kB
+Mapped:           564452 kB
+Shmem:              3632 kB
+Slab:             290296 kB
+SReclaimable:      74876 kB
+SUnreclaim:       215420 kB
+KernelStack:       77360 kB
+PageTables:       119332 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   173678332 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            2484 kB
+
+
+
+2023-04-12_23-50-56
+run this app : Puffin
+
+MemTotal:        5474772 kB
+MemFree:           89436 kB
+MemAvailable:     728004 kB
+Buffers:            6732 kB
+Cached:           770196 kB
+SwapCached:         9344 kB
+Active:          1193344 kB
+Inactive:        1190508 kB
+Active(anon):     806472 kB
+Inactive(anon):   805504 kB
+Active(file):     386872 kB
+Inactive(file):   385004 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:              2720 kB
+Writeback:             0 kB
+AnonPages:       1604520 kB
+Mapped:           669036 kB
+Shmem:              4704 kB
+Slab:             290784 kB
+SReclaimable:      75108 kB
+SUnreclaim:       215676 kB
+KernelStack:       80528 kB
+PageTables:       122836 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   177084484 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             464 kB
+
+
+
+2023-04-12_23-51-16
+run this app : Crunchyroll
+
+MemTotal:        5474772 kB
+MemFree:           93968 kB
+MemAvailable:     599844 kB
+Buffers:            7028 kB
+Cached:           636384 kB
+SwapCached:        11356 kB
+Active:          1118120 kB
+Inactive:        1157936 kB
+Active(anon):     812296 kB
+Inactive(anon):   824396 kB
+Active(file):     305824 kB
+Inactive(file):   333540 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:           2280 kB
+Dirty:              3024 kB
+Writeback:             0 kB
+AnonPages:       1628468 kB
+Mapped:           523812 kB
+Shmem:              3384 kB
+Slab:             290832 kB
+SReclaimable:      74748 kB
+SUnreclaim:       216084 kB
+KernelStack:       80576 kB
+PageTables:       120400 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   170810904 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-51-33
+run this app : VLC
+
+MemTotal:        5474772 kB
+MemFree:          106736 kB
+MemAvailable:     609420 kB
+Buffers:            6676 kB
+Cached:           633344 kB
+SwapCached:        11560 kB
+Active:          1151240 kB
+Inactive:        1157740 kB
+Active(anon):     834808 kB
+Inactive(anon):   838136 kB
+Active(file):     316432 kB
+Inactive(file):   319604 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:           1676 kB
+Dirty:              1096 kB
+Writeback:             0 kB
+AnonPages:       1664924 kB
+Mapped:           518360 kB
+Shmem:              3404 kB
+Slab:             291052 kB
+SReclaimable:      75020 kB
+SUnreclaim:       216032 kB
+KernelStack:       81104 kB
+PageTables:       122348 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   174699576 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-51-48
+run this app : eToro
+
+MemTotal:        5474772 kB
+MemFree:           89224 kB
+MemAvailable:     435352 kB
+Buffers:            3720 kB
+Cached:           479248 kB
+SwapCached:        11720 kB
+Active:          1228004 kB
+Inactive:        1096076 kB
+Active(anon):     985384 kB
+Inactive(anon):   859016 kB
+Active(file):     242620 kB
+Inactive(file):   237060 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:               492 kB
+Writeback:             0 kB
+AnonPages:       1835824 kB
+Mapped:           430872 kB
+Shmem:              3620 kB
+Slab:             290812 kB
+SReclaimable:      74624 kB
+SUnreclaim:       216188 kB
+KernelStack:       82352 kB
+PageTables:       125352 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   178101436 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:           10440 kB
+
+
+
+2023-04-12_23-52-04
+run this app : GroupMe
+
+MemTotal:        5474772 kB
+MemFree:          182968 kB
+MemAvailable:     802308 kB
+Buffers:            7072 kB
+Cached:           749172 kB
+SwapCached:        13044 kB
+Active:          1184440 kB
+Inactive:        1192828 kB
+Active(anon):     825580 kB
+Inactive(anon):   798812 kB
+Active(file):     358860 kB
+Inactive(file):   394016 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:         402992 kB
+Dirty:              1920 kB
+Writeback:             0 kB
+AnonPages:       1615488 kB
+Mapped:           486864 kB
+Shmem:              3368 kB
+Slab:             284000 kB
+SReclaimable:      74656 kB
+SUnreclaim:       209344 kB
+KernelStack:       75920 kB
+PageTables:       115380 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   166926992 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-52-31
+run this app : DNA Evolution 3D
+
+MemTotal:        5474772 kB
+MemFree:          110804 kB
+MemAvailable:     729764 kB
+Buffers:           16200 kB
+Cached:           738976 kB
+SwapCached:        11852 kB
+Active:          1197872 kB
+Inactive:        1092224 kB
+Active(anon):     779788 kB
+Inactive(anon):   757896 kB
+Active(file):     418084 kB
+Inactive(file):   334328 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:             20 kB
+Dirty:              1324 kB
+Writeback:             0 kB
+AnonPages:       1530568 kB
+Mapped:           540948 kB
+Shmem:              2992 kB
+Slab:             290672 kB
+SReclaimable:      74824 kB
+SUnreclaim:       215848 kB
+KernelStack:       81536 kB
+PageTables:       124092 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   178288784 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:           13224 kB
+
+
+
+2023-04-12_23-52-48
+run this app : Bitmoji
+
+MemTotal:        5474772 kB
+MemFree:          121484 kB
+MemAvailable:     669056 kB
+Buffers:           20072 kB
+Cached:           664612 kB
+SwapCached:        12696 kB
+Active:          1121980 kB
+Inactive:        1128288 kB
+Active(anon):     782916 kB
+Inactive(anon):   786164 kB
+Active(file):     339064 kB
+Inactive(file):   342124 kB
+Unevictable:         868 kB
+Mlocked:             868 kB
+SwapTotal:       2621436 kB
+SwapFree:          23160 kB
+Dirty:              1568 kB
+Writeback:             0 kB
+AnonPages:       1560424 kB
+Mapped:           469020 kB
+Shmem:              3464 kB
+Slab:             291016 kB
+SReclaimable:      74496 kB
+SUnreclaim:       216520 kB
+KernelStack:       82464 kB
+PageTables:       125104 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   180285256 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-53-03
+run this app : Amazon Seller
+
+MemTotal:        5474772 kB
+MemFree:          105244 kB
+MemAvailable:     677756 kB
+Buffers:           16948 kB
+Cached:           693056 kB
+SwapCached:        12768 kB
+Active:          1107408 kB
+Inactive:        1126508 kB
+Active(anon):     756464 kB
+Inactive(anon):   771612 kB
+Active(file):     350944 kB
+Inactive(file):   354896 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:            336 kB
+Dirty:              1492 kB
+Writeback:             0 kB
+AnonPages:       1519184 kB
+Mapped:           526976 kB
+Shmem:              3264 kB
+Slab:             292908 kB
+SReclaimable:      75072 kB
+SUnreclaim:       217836 kB
+KernelStack:       82448 kB
+PageTables:       127512 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   185519552 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-53-18
+run this app : WhatsApp
+
+MemTotal:        5474772 kB
+MemFree:           96564 kB
+MemAvailable:     597496 kB
+Buffers:            9352 kB
+Cached:           628472 kB
+SwapCached:        12948 kB
+Active:          1104480 kB
+Inactive:        1114852 kB
+Active(anon):     788212 kB
+Inactive(anon):   796492 kB
+Active(file):     316268 kB
+Inactive(file):   318360 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:           3104 kB
+Dirty:              1328 kB
+Writeback:             0 kB
+AnonPages:       1576372 kB
+Mapped:           523912 kB
+Shmem:              3184 kB
+Slab:             293132 kB
+SReclaimable:      74332 kB
+SUnreclaim:       218800 kB
+KernelStack:       83392 kB
+PageTables:       129608 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   189405136 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             356 kB
+
+
+
+2023-04-12_23-54-08
+run this app : Candy Crush Jelly
+
+MemTotal:        5474772 kB
+MemFree:          104424 kB
+MemAvailable:     581768 kB
+Buffers:            6848 kB
+Cached:           607924 kB
+SwapCached:        11840 kB
+Active:          1003928 kB
+Inactive:        1043920 kB
+Active(anon):     703564 kB
+Inactive(anon):   733048 kB
+Active(file):     300364 kB
+Inactive(file):   310872 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:         197216 kB
+Dirty:              2200 kB
+Writeback:             0 kB
+AnonPages:       1428268 kB
+Mapped:           455088 kB
+Shmem:              3424 kB
+Slab:             289228 kB
+SReclaimable:      73944 kB
+SUnreclaim:       215284 kB
+KernelStack:       74208 kB
+PageTables:       114628 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   163246648 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             172 kB
+
+
+
+2023-04-12_23-54-27
+run this app : Candy Crush Saga
+
+MemTotal:        5474772 kB
+MemFree:          130160 kB
+MemAvailable:     573808 kB
+Buffers:            7536 kB
+Cached:           573156 kB
+SwapCached:        11860 kB
+Active:           941052 kB
+Inactive:         991072 kB
+Active(anon):     653464 kB
+Inactive(anon):   701216 kB
+Active(file):     287588 kB
+Inactive(file):   289856 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:           1816 kB
+Dirty:              5536 kB
+Writeback:             0 kB
+AnonPages:       1346648 kB
+Mapped:           446008 kB
+Shmem:              3316 kB
+Slab:             289356 kB
+SReclaimable:      74132 kB
+SUnreclaim:       215224 kB
+KernelStack:       74864 kB
+PageTables:       113344 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   159410316 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-54-43
+run this app : NYT Games
+
+MemTotal:        5474772 kB
+MemFree:           97276 kB
+MemAvailable:     705240 kB
+Buffers:           24956 kB
+Cached:           720244 kB
+SwapCached:        13556 kB
+Active:          1055296 kB
+Inactive:        1069260 kB
+Active(anon):     688428 kB
+Inactive(anon):   694416 kB
+Active(file):     366868 kB
+Inactive(file):   374844 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:          68024 kB
+Dirty:                88 kB
+Writeback:             0 kB
+AnonPages:       1372596 kB
+Mapped:           558188 kB
+Shmem:              3112 kB
+Slab:             288688 kB
+SReclaimable:      74232 kB
+SUnreclaim:       214456 kB
+KernelStack:       76160 kB
+PageTables:       113688 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   161342328 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:              68 kB
+
+
+
+2023-04-12_23-54-55
+run this app : Simple PDF Reader
+
+MemTotal:        5474772 kB
+MemFree:           97480 kB
+MemAvailable:     759876 kB
+Buffers:           13180 kB
+Cached:           786600 kB
+SwapCached:        11852 kB
+Active:          1066288 kB
+Inactive:        1089668 kB
+Active(anon):     671676 kB
+Inactive(anon):   688128 kB
+Active(file):     394612 kB
+Inactive(file):   401540 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:           1104 kB
+Dirty:              5116 kB
+Writeback:             0 kB
+AnonPages:       1351000 kB
+Mapped:           593616 kB
+Shmem:              3224 kB
+Slab:             288704 kB
+SReclaimable:      74212 kB
+SUnreclaim:       214492 kB
+KernelStack:       78432 kB
+PageTables:       117112 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   166637776 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-55-20
+run this app : Crossy Road
+
+MemTotal:        5474772 kB
+MemFree:           36984 kB
+MemAvailable:     604572 kB
+Buffers:            6320 kB
+Cached:           700472 kB
+SwapCached:         9316 kB
+Active:          1121432 kB
+Inactive:        1030616 kB
+Active(anon):     765260 kB
+Inactive(anon):   685140 kB
+Active(file):     356172 kB
+Inactive(file):   345476 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:               396 kB
+Writeback:             0 kB
+AnonPages:       1443988 kB
+Mapped:           523404 kB
+Shmem:              3280 kB
+Slab:             286252 kB
+SReclaimable:      73604 kB
+SUnreclaim:       212648 kB
+KernelStack:       76672 kB
+PageTables:       114532 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   163454156 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             704 kB
+
+
+
+2023-04-12_23-55-36
+run this app : FaceApp
+
+MemTotal:        5474772 kB
+MemFree:          108132 kB
+MemAvailable:     601872 kB
+Buffers:            9952 kB
+Cached:           621524 kB
+SwapCached:        12224 kB
+Active:          1056932 kB
+Inactive:        1059924 kB
+Active(anon):     743124 kB
+Inactive(anon):   746004 kB
+Active(file):     313808 kB
+Inactive(file):   313920 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:            292 kB
+Dirty:               840 kB
+Writeback:             0 kB
+AnonPages:       1479484 kB
+Mapped:           456032 kB
+Shmem:              3772 kB
+Slab:             287772 kB
+SReclaimable:      73752 kB
+SUnreclaim:       214020 kB
+KernelStack:       79744 kB
+PageTables:       119328 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   174725244 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               4 kB
+
+
+
+2023-04-12_23-55-48
+run this app : Lyft
+
+MemTotal:        5474772 kB
+MemFree:          101108 kB
+MemAvailable:     536640 kB
+Buffers:            5080 kB
+Cached:           569180 kB
+SwapCached:        10632 kB
+Active:          1061496 kB
+Inactive:        1059744 kB
+Active(anon):     776100 kB
+Inactive(anon):   775592 kB
+Active(file):     285396 kB
+Inactive(file):   284152 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:          50732 kB
+Dirty:               816 kB
+Writeback:             0 kB
+AnonPages:       1544688 kB
+Mapped:           427944 kB
+Shmem:              3792 kB
+Slab:             287924 kB
+SReclaimable:      73696 kB
+SUnreclaim:       214228 kB
+KernelStack:       79744 kB
+PageTables:       117324 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   167537932 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             224 kB
+
+
+
+2023-04-12_23-56-01
+run this app : Pou
+
+MemTotal:        5474772 kB
+MemFree:           99200 kB
+MemAvailable:     629988 kB
+Buffers:            6876 kB
+Cached:           665388 kB
+SwapCached:        12428 kB
+Active:          1095988 kB
+Inactive:        1094020 kB
+Active(anon):     763260 kB
+Inactive(anon):   761956 kB
+Active(file):     332728 kB
+Inactive(file):   332064 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:           1148 kB
+Dirty:               148 kB
+Writeback:             0 kB
+AnonPages:       1511924 kB
+Mapped:           544368 kB
+Shmem:              7224 kB
+Slab:             287720 kB
+SReclaimable:      73720 kB
+SUnreclaim:       214000 kB
+KernelStack:       80656 kB
+PageTables:       119720 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   171380480 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-56-28
+run this app : Hide 'N Seek!
+
+MemTotal:        5474772 kB
+MemFree:           90444 kB
+MemAvailable:     571328 kB
+Buffers:            7096 kB
+Cached:           616044 kB
+SwapCached:        11428 kB
+Active:          1089200 kB
+Inactive:        1101836 kB
+Active(anon):     773904 kB
+Inactive(anon):   801844 kB
+Active(file):     315296 kB
+Inactive(file):   299992 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:           2540 kB
+Dirty:               196 kB
+Writeback:             0 kB
+AnonPages:       1564188 kB
+Mapped:           459592 kB
+Shmem:              6900 kB
+Slab:             287076 kB
+SReclaimable:      72920 kB
+SUnreclaim:       214156 kB
+KernelStack:       76240 kB
+PageTables:       114084 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   163756064 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               4 kB
+
+
+
+2023-04-12_23-56-41
+run this app : Telegram
+
+MemTotal:        5474772 kB
+MemFree:           90920 kB
+MemAvailable:     675228 kB
+Buffers:            7328 kB
+Cached:           718900 kB
+SwapCached:        12508 kB
+Active:          1137620 kB
+Inactive:        1167560 kB
+Active(anon):     799588 kB
+Inactive(anon):   787052 kB
+Active(file):     338032 kB
+Inactive(file):   380508 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:         318400 kB
+Dirty:              1464 kB
+Writeback:             0 kB
+AnonPages:       1574760 kB
+Mapped:           517508 kB
+Shmem:              6748 kB
+Slab:             287112 kB
+SReclaimable:      73260 kB
+SUnreclaim:       213852 kB
+KernelStack:       75712 kB
+PageTables:       113324 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   166176224 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             296 kB
+
+
+
+2023-04-12_23-56-56
+run this app : Signal
+
+MemTotal:        5474772 kB
+MemFree:           99384 kB
+MemAvailable:     733100 kB
+Buffers:            9320 kB
+Cached:           765820 kB
+SwapCached:        11268 kB
+Active:          1117348 kB
+Inactive:        1117132 kB
+Active(anon):     733444 kB
+Inactive(anon):   733240 kB
+Active(file):     383904 kB
+Inactive(file):   383892 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:         109592 kB
+Dirty:               584 kB
+Writeback:             0 kB
+AnonPages:       1454932 kB
+Mapped:           606272 kB
+Shmem:              7472 kB
+Slab:             287376 kB
+SReclaimable:      73568 kB
+SUnreclaim:       213808 kB
+KernelStack:       78416 kB
+PageTables:       118352 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   173996536 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             912 kB
+
+
+
+2023-04-12_23-57-15
+run this app : Kindle
+
+MemTotal:        5474772 kB
+MemFree:          121392 kB
+MemAvailable:     735092 kB
+Buffers:            5768 kB
+Cached:           747340 kB
+SwapCached:        12108 kB
+Active:          1138096 kB
+Inactive:        1116132 kB
+Active(anon):     762448 kB
+Inactive(anon):   743604 kB
+Active(file):     375648 kB
+Inactive(file):   372528 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:            380 kB
+Dirty:              2600 kB
+Writeback:             0 kB
+AnonPages:       1497768 kB
+Mapped:           635480 kB
+Shmem:              3704 kB
+Slab:             288424 kB
+SReclaimable:      72776 kB
+SUnreclaim:       215648 kB
+KernelStack:       80864 kB
+PageTables:       123372 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   181258192 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-57-31
+run this app : Firefox
+
+MemTotal:        5474772 kB
+MemFree:          113548 kB
+MemAvailable:     671564 kB
+Buffers:            5960 kB
+Cached:           690464 kB
+SwapCached:        11992 kB
+Active:          1102040 kB
+Inactive:        1131764 kB
+Active(anon):     757164 kB
+Inactive(anon):   784280 kB
+Active(file):     344876 kB
+Inactive(file):   347484 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:           1064 kB
+Dirty:               136 kB
+Writeback:             0 kB
+AnonPages:       1533680 kB
+Mapped:           592108 kB
+Shmem:              3696 kB
+Slab:             288788 kB
+SReclaimable:      73040 kB
+SUnreclaim:       215748 kB
+KernelStack:       81040 kB
+PageTables:       123680 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   181282556 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-57-52
+run this app : Coinbase
+
+MemTotal:        5474772 kB
+MemFree:          100000 kB
+MemAvailable:     539480 kB
+Buffers:            5656 kB
+Cached:           572380 kB
+SwapCached:        12332 kB
+Active:          1097816 kB
+Inactive:        1101160 kB
+Active(anon):     812016 kB
+Inactive(anon):   813216 kB
+Active(file):     285800 kB
+Inactive(file):   287944 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:            704 kB
+Dirty:               832 kB
+Writeback:             0 kB
+AnonPages:       1615932 kB
+Mapped:           509308 kB
+Shmem:              3832 kB
+Slab:             288908 kB
+SReclaimable:      73196 kB
+SUnreclaim:       215712 kB
+KernelStack:       79680 kB
+PageTables:       123304 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   181234496 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-12_23-58-17
+run this app : Candy Crush Soda
+
+MemTotal:        5474772 kB
+MemFree:          127828 kB
+MemAvailable:     631952 kB
+Buffers:            9852 kB
+Cached:           633412 kB
+SwapCached:        10328 kB
+Active:          1066804 kB
+Inactive:        1095968 kB
+Active(anon):     749528 kB
+Inactive(anon):   774676 kB
+Active(file):     317276 kB
+Inactive(file):   321292 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:          66124 kB
+Dirty:              6272 kB
+Writeback:             0 kB
+AnonPages:       1516912 kB
+Mapped:           488260 kB
+Shmem:              4052 kB
+Slab:             287696 kB
+SReclaimable:      72836 kB
+SUnreclaim:       214860 kB
+KernelStack:       75968 kB
+PageTables:       115084 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   168627424 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             500 kB
+
+
+
+2023-04-12_23-58-45
+run this app : Kids Transport
+
+MemTotal:        5474772 kB
+MemFree:          128588 kB
+MemAvailable:     821688 kB
+Buffers:            7984 kB
+Cached:           823652 kB
+SwapCached:        12932 kB
+Active:          1146696 kB
+Inactive:        1155112 kB
+Active(anon):     736724 kB
+Inactive(anon):   737440 kB
+Active(file):     409972 kB
+Inactive(file):   417672 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:         138880 kB
+Dirty:               168 kB
+Writeback:             0 kB
+AnonPages:       1465096 kB
+Mapped:           539924 kB
+Shmem:              3600 kB
+Slab:             286756 kB
+SReclaimable:      72636 kB
+SUnreclaim:       214120 kB
+KernelStack:       73648 kB
+PageTables:       113460 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   167784652 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            1940 kB
+
+
+
+2023-04-12_23-59-13
+run this app : Hill Climb Racing
+
+MemTotal:        5474772 kB
+MemFree:           87516 kB
+MemAvailable:     715060 kB
+Buffers:            5572 kB
+Cached:           761776 kB
+SwapCached:        12400 kB
+Active:          1103708 kB
+Inactive:        1071760 kB
+Active(anon):     707064 kB
+Inactive(anon):   706488 kB
+Active(file):     396644 kB
+Inactive(file):   365272 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:              4 kB
+Dirty:               756 kB
+Writeback:             0 kB
+AnonPages:       1403644 kB
+Mapped:           649688 kB
+Shmem:              5240 kB
+Slab:             287280 kB
+SReclaimable:      72980 kB
+SUnreclaim:       214300 kB
+KernelStack:       76816 kB
+PageTables:       118152 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   173149628 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               8 kB
+
+
+
+2023-04-12_23-59-25
+run this app : Call Recorder
+
+MemTotal:        5474772 kB
+MemFree:          103396 kB
+MemAvailable:     664376 kB
+Buffers:            7608 kB
+Cached:           693552 kB
+SwapCached:        12500 kB
+Active:          1101188 kB
+Inactive:        1075672 kB
+Active(anon):     743456 kB
+Inactive(anon):   738096 kB
+Active(file):     357732 kB
+Inactive(file):   337576 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:            216 kB
+Dirty:              4492 kB
+Writeback:             0 kB
+AnonPages:       1471212 kB
+Mapped:           590928 kB
+Shmem:              5640 kB
+Slab:             288084 kB
+SReclaimable:      73072 kB
+SUnreclaim:       215012 kB
+KernelStack:       78816 kB
+PageTables:       120500 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   176518732 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             220 kB
+
+
+
+2023-04-12_23-59-38
+run this app : Kik
+
+MemTotal:        5474772 kB
+MemFree:           56260 kB
+MemAvailable:     536292 kB
+Buffers:            5448 kB
+Cached:           615272 kB
+SwapCached:        11040 kB
+Active:          1100936 kB
+Inactive:        1099444 kB
+Active(anon):     793728 kB
+Inactive(anon):   792008 kB
+Active(file):     307208 kB
+Inactive(file):   307436 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:               140 kB
+Writeback:             0 kB
+AnonPages:       1576964 kB
+Mapped:           478800 kB
+Shmem:              5484 kB
+Slab:             288324 kB
+SReclaimable:      72504 kB
+SUnreclaim:       215820 kB
+KernelStack:       81296 kB
+PageTables:       124584 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   181876128 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             228 kB
+
+
+
+2023-04-12_23-59-59
+run this app : Color Fill 3D
+
+MemTotal:        5474772 kB
+MemFree:           14640 kB
+MemAvailable:     635028 kB
+Buffers:            7712 kB
+Cached:           752640 kB
+SwapCached:        12976 kB
+Active:          1188348 kB
+Inactive:        1178540 kB
+Active(anon):     806004 kB
+Inactive(anon):   806164 kB
+Active(file):     382344 kB
+Inactive(file):   372376 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:          81692 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:       1601776 kB
+Mapped:           589184 kB
+Shmem:              5524 kB
+Slab:             287796 kB
+SReclaimable:      73060 kB
+SUnreclaim:       214736 kB
+KernelStack:       80176 kB
+PageTables:       117172 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   167128008 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-00-18
+run this app : Etsy
+
+MemTotal:        5474772 kB
+MemFree:           93584 kB
+MemAvailable:     555924 kB
+Buffers:            7864 kB
+Cached:           594588 kB
+SwapCached:        14772 kB
+Active:          1156272 kB
+Inactive:        1120032 kB
+Active(anon):     847244 kB
+Inactive(anon):   832228 kB
+Active(file):     309028 kB
+Inactive(file):   287804 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:            668 kB
+Dirty:              2664 kB
+Writeback:             0 kB
+AnonPages:       1667840 kB
+Mapped:           512104 kB
+Shmem:              5388 kB
+Slab:             290904 kB
+SReclaimable:      72744 kB
+SUnreclaim:       218160 kB
+KernelStack:       84736 kB
+PageTables:       127216 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   184606496 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            1468 kB
+
+
+
+2023-04-13_00-00-32
+run this app : Pi
+
+MemTotal:        5474772 kB
+MemFree:           76440 kB
+MemAvailable:     585624 kB
+Buffers:            8204 kB
+Cached:           641128 kB
+SwapCached:        13800 kB
+Active:          1155872 kB
+Inactive:        1151184 kB
+Active(anon):     834160 kB
+Inactive(anon):   829460 kB
+Active(file):     321712 kB
+Inactive(file):   321724 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:          87520 kB
+Dirty:               896 kB
+Writeback:             0 kB
+AnonPages:       1653040 kB
+Mapped:           515640 kB
+Shmem:              5140 kB
+Slab:             291716 kB
+SReclaimable:      73224 kB
+SUnreclaim:       218492 kB
+KernelStack:       82048 kB
+PageTables:       124644 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   182663260 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             100 kB
+
+
+
+2023-04-13_00-00-55
+run this app : Soccer Star
+
+MemTotal:        5474772 kB
+MemFree:          102096 kB
+MemAvailable:     686720 kB
+Buffers:            6048 kB
+Cached:           717056 kB
+SwapCached:        12320 kB
+Active:          1210452 kB
+Inactive:        1189372 kB
+Active(anon):     854020 kB
+Inactive(anon):   826816 kB
+Active(file):     356432 kB
+Inactive(file):   362556 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:         315356 kB
+Dirty:              4936 kB
+Writeback:             0 kB
+AnonPages:       1671904 kB
+Mapped:           555840 kB
+Shmem:              3664 kB
+Slab:             289452 kB
+SReclaimable:      73000 kB
+SUnreclaim:       216452 kB
+KernelStack:       76784 kB
+PageTables:       116200 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   167902648 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-01-10
+run this app : Puffin
+
+MemTotal:        5474772 kB
+MemFree:           97880 kB
+MemAvailable:     862696 kB
+Buffers:            9632 kB
+Cached:           895552 kB
+SwapCached:        11356 kB
+Active:          1189264 kB
+Inactive:        1178780 kB
+Active(anon):     739032 kB
+Inactive(anon):   729704 kB
+Active(file):     450232 kB
+Inactive(file):   449076 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:            108 kB
+Dirty:              6796 kB
+Writeback:             0 kB
+AnonPages:       1459232 kB
+Mapped:           648744 kB
+Shmem:              4820 kB
+Slab:             289656 kB
+SReclaimable:      72744 kB
+SUnreclaim:       216912 kB
+KernelStack:       79472 kB
+PageTables:       118664 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   171291332 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             228 kB
+
+
+
+2023-04-13_00-01-26
+run this app : Crunchyroll
+
+MemTotal:        5474772 kB
+MemFree:          101856 kB
+MemAvailable:     734424 kB
+Buffers:            9128 kB
+Cached:           761296 kB
+SwapCached:        13860 kB
+Active:          1176356 kB
+Inactive:        1162964 kB
+Active(anon):     783700 kB
+Inactive(anon):   788528 kB
+Active(file):     392656 kB
+Inactive(file):   374436 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:           3352 kB
+Dirty:               136 kB
+Writeback:             0 kB
+AnonPages:       1562104 kB
+Mapped:           623724 kB
+Shmem:              3312 kB
+Slab:             289268 kB
+SReclaimable:      72680 kB
+SUnreclaim:       216588 kB
+KernelStack:       80896 kB
+PageTables:       121432 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   175236352 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             200 kB
+
+
+
+2023-04-13_00-01-42
+run this app : VLC
+
+MemTotal:        5474772 kB
+MemFree:           92852 kB
+MemAvailable:     707576 kB
+Buffers:            7728 kB
+Cached:           745100 kB
+SwapCached:        13856 kB
+Active:          1159872 kB
+Inactive:        1185160 kB
+Active(anon):     785572 kB
+Inactive(anon):   810148 kB
+Active(file):     374300 kB
+Inactive(file):   375012 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:          16712 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:       1585800 kB
+Mapped:           606644 kB
+Shmem:              3176 kB
+Slab:             289396 kB
+SReclaimable:      72552 kB
+SUnreclaim:       216844 kB
+KernelStack:       81936 kB
+PageTables:       123532 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   179129464 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-01-58
+run this app : eToro
+
+MemTotal:        5474772 kB
+MemFree:          102364 kB
+MemAvailable:     568484 kB
+Buffers:            5880 kB
+Cached:           597912 kB
+SwapCached:        12744 kB
+Active:          1250972 kB
+Inactive:        1109264 kB
+Active(anon):     950560 kB
+Inactive(anon):   809040 kB
+Active(file):     300412 kB
+Inactive(file):   300224 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:               516 kB
+Writeback:             0 kB
+AnonPages:       1750608 kB
+Mapped:           542304 kB
+Shmem:              3024 kB
+Slab:             290192 kB
+SReclaimable:      72696 kB
+SUnreclaim:       217496 kB
+KernelStack:       82976 kB
+PageTables:       126216 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   182540256 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            9340 kB
+
+
+
+2023-04-13_00-02-13
+run this app : GroupMe
+
+MemTotal:        5474772 kB
+MemFree:          110496 kB
+MemAvailable:     648568 kB
+Buffers:            7180 kB
+Cached:           669036 kB
+SwapCached:        12280 kB
+Active:          1118148 kB
+Inactive:        1133932 kB
+Active(anon):     782232 kB
+Inactive(anon):   797032 kB
+Active(file):     335916 kB
+Inactive(file):   336900 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:            576 kB
+Dirty:              1996 kB
+Writeback:             0 kB
+AnonPages:       1571316 kB
+Mapped:           445572 kB
+Shmem:              3024 kB
+Slab:             289384 kB
+SReclaimable:      72240 kB
+SUnreclaim:       217144 kB
+KernelStack:       78768 kB
+PageTables:       117848 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   167412332 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-02-40
+run this app : DNA Evolution 3D
+
+MemTotal:        5474772 kB
+MemFree:           92220 kB
+MemAvailable:     777448 kB
+Buffers:           18504 kB
+Cached:           804936 kB
+SwapCached:        10636 kB
+Active:          1176372 kB
+Inactive:        1161472 kB
+Active(anon):     759192 kB
+Inactive(anon):   758736 kB
+Active(file):     417180 kB
+Inactive(file):   402736 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:          84920 kB
+Dirty:               764 kB
+Writeback:             0 kB
+AnonPages:       1511544 kB
+Mapped:           568452 kB
+Shmem:              3256 kB
+Slab:             289620 kB
+SReclaimable:      72352 kB
+SUnreclaim:       217268 kB
+KernelStack:       80272 kB
+PageTables:       120492 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   173039036 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             100 kB
+
+
+
+2023-04-13_00-02-58
+run this app : Bitmoji
+
+MemTotal:        5474772 kB
+MemFree:          125900 kB
+MemAvailable:     734732 kB
+Buffers:           21044 kB
+Cached:           725984 kB
+SwapCached:        13312 kB
+Active:          1115720 kB
+Inactive:        1109912 kB
+Active(anon):     750172 kB
+Inactive(anon):   732192 kB
+Active(file):     365548 kB
+Inactive(file):   377720 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:           1288 kB
+Dirty:              2560 kB
+Writeback:             0 kB
+AnonPages:       1473316 kB
+Mapped:           502360 kB
+Shmem:              3584 kB
+Slab:             290304 kB
+SReclaimable:      72852 kB
+SUnreclaim:       217452 kB
+KernelStack:       81312 kB
+PageTables:       122580 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   176957340 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-03-14
+run this app : Amazon Seller
+
+MemTotal:        5474772 kB
+MemFree:          123392 kB
+MemAvailable:     602248 kB
+Buffers:           17744 kB
+Cached:           599948 kB
+SwapCached:        13776 kB
+Active:          1111592 kB
+Inactive:        1056104 kB
+Active(anon):     768984 kB
+Inactive(anon):   785156 kB
+Active(file):     342608 kB
+Inactive(file):   270948 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:           3028 kB
+Dirty:              1452 kB
+Writeback:             0 kB
+AnonPages:       1543880 kB
+Mapped:           499048 kB
+Shmem:              4016 kB
+Slab:             290824 kB
+SReclaimable:      72328 kB
+SUnreclaim:       218496 kB
+KernelStack:       82928 kB
+PageTables:       126184 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   182268320 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-03-29
+run this app : WhatsApp
+
+MemTotal:        5474772 kB
+MemFree:          126744 kB
+MemAvailable:     577352 kB
+Buffers:            5716 kB
+Cached:           583208 kB
+SwapCached:        14196 kB
+Active:          1087288 kB
+Inactive:        1085364 kB
+Active(anon):     794016 kB
+Inactive(anon):   793704 kB
+Active(file):     293272 kB
+Inactive(file):   291660 kB
+Unevictable:         836 kB
+Mlocked:             836 kB
+SwapTotal:       2621436 kB
+SwapFree:           1808 kB
+Dirty:              1128 kB
+Writeback:             0 kB
+AnonPages:       1577772 kB
+Mapped:           470444 kB
+Shmem:              3968 kB
+Slab:             291876 kB
+SReclaimable:      73076 kB
+SUnreclaim:       218800 kB
+KernelStack:       83520 kB
+PageTables:       127280 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   184223112 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-04-20
+run this app : Candy Crush Jelly
+
+MemTotal:        5474772 kB
+MemFree:          250880 kB
+MemAvailable:     734384 kB
+Buffers:            9884 kB
+Cached:           613156 kB
+SwapCached:        10996 kB
+Active:           972064 kB
+Inactive:        1114824 kB
+Active(anon):     671024 kB
+Inactive(anon):   797728 kB
+Active(file):     301040 kB
+Inactive(file):   317096 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:         419812 kB
+Dirty:              3212 kB
+Writeback:             0 kB
+AnonPages:       1461100 kB
+Mapped:           448912 kB
+Shmem:              4088 kB
+Slab:             289584 kB
+SReclaimable:      72464 kB
+SUnreclaim:       217120 kB
+KernelStack:       72560 kB
+PageTables:       110344 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   158511100 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-04-41
+run this app : Candy Crush Saga
+
+MemTotal:        5474772 kB
+MemFree:          122188 kB
+MemAvailable:     672032 kB
+Buffers:            7520 kB
+Cached:           680444 kB
+SwapCached:        11688 kB
+Active:          1095848 kB
+Inactive:        1083704 kB
+Active(anon):     743192 kB
+Inactive(anon):   752168 kB
+Active(file):     352656 kB
+Inactive(file):   331536 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:         308928 kB
+Dirty:              1188 kB
+Writeback:             0 kB
+AnonPages:       1486560 kB
+Mapped:           488780 kB
+Shmem:              3764 kB
+Slab:             290108 kB
+SReclaimable:      73028 kB
+SUnreclaim:       217080 kB
+KernelStack:       73760 kB
+PageTables:       112064 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   160456544 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-04-55
+run this app : NYT Games
+
+MemTotal:        5474772 kB
+MemFree:           92256 kB
+MemAvailable:     792300 kB
+Buffers:           25572 kB
+Cached:           812220 kB
+SwapCached:        13636 kB
+Active:          1082316 kB
+Inactive:        1083508 kB
+Active(anon):     665928 kB
+Inactive(anon):   665552 kB
+Active(file):     416388 kB
+Inactive(file):   417956 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:           8996 kB
+Dirty:              1916 kB
+Writeback:             0 kB
+AnonPages:       1321240 kB
+Mapped:           630568 kB
+Shmem:              3408 kB
+Slab:             290220 kB
+SReclaimable:      73124 kB
+SUnreclaim:       217096 kB
+KernelStack:       76592 kB
+PageTables:       114436 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   163825376 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             724 kB
+
+
+
+2023-04-13_00-05-07
+run this app : Simple PDF Reader
+
+MemTotal:        5474772 kB
+MemFree:           97920 kB
+MemAvailable:     735324 kB
+Buffers:           13764 kB
+Cached:           762552 kB
+SwapCached:        12584 kB
+Active:          1076764 kB
+Inactive:        1075292 kB
+Active(anon):     687836 kB
+Inactive(anon):   692416 kB
+Active(file):     388928 kB
+Inactive(file):   382876 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:           7248 kB
+Dirty:              4252 kB
+Writeback:             0 kB
+AnonPages:       1370784 kB
+Mapped:           565880 kB
+Shmem:              3484 kB
+Slab:             289980 kB
+SReclaimable:      72924 kB
+SUnreclaim:       217056 kB
+KernelStack:       79280 kB
+PageTables:       118560 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   171063440 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-05-30
+run this app : Crossy Road
+
+MemTotal:        5474772 kB
+MemFree:          101872 kB
+MemAvailable:     594420 kB
+Buffers:            5248 kB
+Cached:           625988 kB
+SwapCached:        13076 kB
+Active:          1062300 kB
+Inactive:        1041780 kB
+Active(anon):     747872 kB
+Inactive(anon):   729028 kB
+Active(file):     314428 kB
+Inactive(file):   312752 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:         172780 kB
+Dirty:               320 kB
+Writeback:            16 kB
+AnonPages:       1467212 kB
+Mapped:           500332 kB
+Shmem:              3676 kB
+Slab:             289256 kB
+SReclaimable:      72460 kB
+SUnreclaim:       216796 kB
+KernelStack:       74944 kB
+PageTables:       112600 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   161399092 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             120 kB
+
+
+
+2023-04-13_00-05-47
+run this app : FaceApp
+
+MemTotal:        5474772 kB
+MemFree:          112740 kB
+MemAvailable:     641316 kB
+Buffers:            8760 kB
+Cached:           658600 kB
+SwapCached:        11640 kB
+Active:          1082564 kB
+Inactive:        1066224 kB
+Active(anon):     740864 kB
+Inactive(anon):   744688 kB
+Active(file):     341700 kB
+Inactive(file):   321536 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:           2688 kB
+Dirty:               700 kB
+Writeback:             0 kB
+AnonPages:       1476868 kB
+Mapped:           461492 kB
+Shmem:              3228 kB
+Slab:             289124 kB
+SReclaimable:      72404 kB
+SUnreclaim:       216720 kB
+KernelStack:       78448 kB
+PageTables:       116980 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   171370464 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-05-59
+run this app : Lyft
+
+MemTotal:        5474772 kB
+MemFree:          107800 kB
+MemAvailable:     692608 kB
+Buffers:            8988 kB
+Cached:           715100 kB
+SwapCached:        10264 kB
+Active:          1078000 kB
+Inactive:        1085948 kB
+Active(anon):     718164 kB
+Inactive(anon):   726556 kB
+Active(file):     359836 kB
+Inactive(file):   359392 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:            412 kB
+Dirty:              1632 kB
+Writeback:             0 kB
+AnonPages:       1438016 kB
+Mapped:           472460 kB
+Shmem:              3200 kB
+Slab:             289616 kB
+SReclaimable:      72888 kB
+SUnreclaim:       216728 kB
+KernelStack:       78928 kB
+PageTables:       118100 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   169882732 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             228 kB
+
+
+
+2023-04-13_00-06-13
+run this app : Pou
+
+MemTotal:        5474772 kB
+MemFree:           95996 kB
+MemAvailable:     652100 kB
+Buffers:            5952 kB
+Cached:           693988 kB
+SwapCached:        11628 kB
+Active:          1102028 kB
+Inactive:        1104228 kB
+Active(anon):     755948 kB
+Inactive(anon):   759464 kB
+Active(file):     346080 kB
+Inactive(file):   344764 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:              4 kB
+Dirty:               788 kB
+Writeback:             0 kB
+AnonPages:       1502820 kB
+Mapped:           526196 kB
+Shmem:              7384 kB
+Slab:             289020 kB
+SReclaimable:      72244 kB
+SUnreclaim:       216776 kB
+KernelStack:       81840 kB
+PageTables:       121240 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   173341148 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-06-40
+run this app : Hide 'N Seek!
+
+MemTotal:        5474772 kB
+MemFree:           97864 kB
+MemAvailable:     557428 kB
+Buffers:            6604 kB
+Cached:           595428 kB
+SwapCached:        11852 kB
+Active:          1125960 kB
+Inactive:        1066008 kB
+Active(anon):     796596 kB
+Inactive(anon):   800900 kB
+Active(file):     329364 kB
+Inactive(file):   265108 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:             36 kB
+Dirty:              1320 kB
+Writeback:             0 kB
+AnonPages:       1584968 kB
+Mapped:           429332 kB
+Shmem:              7332 kB
+Slab:             288088 kB
+SReclaimable:      71912 kB
+SUnreclaim:       216176 kB
+KernelStack:       76992 kB
+PageTables:       116380 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   168119128 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             264 kB
+
+
+
+2023-04-13_00-06-53
+run this app : Telegram
+
+MemTotal:        5474772 kB
+MemFree:          166932 kB
+MemAvailable:     693836 kB
+Buffers:            8608 kB
+Cached:           660376 kB
+SwapCached:        12564 kB
+Active:          1144768 kB
+Inactive:        1146040 kB
+Active(anon):     841616 kB
+Inactive(anon):   787668 kB
+Active(file):     303152 kB
+Inactive(file):   358372 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:         437524 kB
+Dirty:               816 kB
+Writeback:             0 kB
+AnonPages:       1616292 kB
+Mapped:           460392 kB
+Shmem:              7408 kB
+Slab:             287772 kB
+SReclaimable:      72484 kB
+SUnreclaim:       215288 kB
+KernelStack:       74480 kB
+PageTables:       111944 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   164688344 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-07-08
+run this app : Signal
+
+MemTotal:        5474772 kB
+MemFree:           95732 kB
+MemAvailable:     688616 kB
+Buffers:            6920 kB
+Cached:           728000 kB
+SwapCached:        10408 kB
+Active:          1157224 kB
+Inactive:        1152664 kB
+Active(anon):     792160 kB
+Inactive(anon):   790260 kB
+Active(file):     365064 kB
+Inactive(file):   362404 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:         329540 kB
+Dirty:              4228 kB
+Writeback:             0 kB
+AnonPages:       1571800 kB
+Mapped:           520852 kB
+Shmem:              7432 kB
+Slab:             287836 kB
+SReclaimable:      72560 kB
+SUnreclaim:       215276 kB
+KernelStack:       75232 kB
+PageTables:       113648 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   166666852 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            1208 kB
+
+
+
+2023-04-13_00-07-26
+run this app : Kindle
+
+MemTotal:        5474772 kB
+MemFree:          188724 kB
+MemAvailable:     853244 kB
+Buffers:            9048 kB
+Cached:           793476 kB
+SwapCached:        12868 kB
+Active:          1075712 kB
+Inactive:        1116948 kB
+Active(anon):     672908 kB
+Inactive(anon):   720460 kB
+Active(file):     402804 kB
+Inactive(file):   396488 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:            420 kB
+Dirty:               412 kB
+Writeback:             0 kB
+AnonPages:       1384724 kB
+Mapped:           665840 kB
+Shmem:              3008 kB
+Slab:             287712 kB
+SReclaimable:      72184 kB
+SUnreclaim:       215528 kB
+KernelStack:       78208 kB
+PageTables:       117908 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   172006884 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-07-41
+run this app : Firefox
+
+MemTotal:        5474772 kB
+MemFree:          112700 kB
+MemAvailable:     697144 kB
+Buffers:            6128 kB
+Cached:           717936 kB
+SwapCached:        13528 kB
+Active:          1123612 kB
+Inactive:        1121400 kB
+Active(anon):     763188 kB
+Inactive(anon):   762504 kB
+Active(file):     360424 kB
+Inactive(file):   358896 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:          11260 kB
+Dirty:               632 kB
+Writeback:             0 kB
+AnonPages:       1515660 kB
+Mapped:           633048 kB
+Shmem:              4020 kB
+Slab:             288696 kB
+SReclaimable:      71976 kB
+SUnreclaim:       216720 kB
+KernelStack:       80800 kB
+PageTables:       122000 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   177881328 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-08-03
+run this app : Coinbase
+
+MemTotal:        5474772 kB
+MemFree:          100368 kB
+MemAvailable:     698308 kB
+Buffers:            6384 kB
+Cached:           730124 kB
+SwapCached:        11648 kB
+Active:          1112196 kB
+Inactive:        1109508 kB
+Active(anon):     745612 kB
+Inactive(anon):   743360 kB
+Active(file):     366584 kB
+Inactive(file):   366148 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:            108 kB
+Dirty:               928 kB
+Writeback:             0 kB
+AnonPages:       1480440 kB
+Mapped:           642676 kB
+Shmem:              4168 kB
+Slab:             288756 kB
+SReclaimable:      72140 kB
+SUnreclaim:       216616 kB
+KernelStack:       78576 kB
+PageTables:       119120 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   173946696 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             912 kB
+
+
+
+2023-04-13_00-08-27
+run this app : Candy Crush Soda
+
+MemTotal:        5474772 kB
+MemFree:          139044 kB
+MemAvailable:     481860 kB
+Buffers:            4304 kB
+Cached:           478504 kB
+SwapCached:        11908 kB
+Active:          1046036 kB
+Inactive:        1050356 kB
+Active(anon):     808304 kB
+Inactive(anon):   810356 kB
+Active(file):     237732 kB
+Inactive(file):   240000 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:         211492 kB
+Dirty:              5848 kB
+Writeback:             0 kB
+AnonPages:       1609348 kB
+Mapped:           382056 kB
+Shmem:              4564 kB
+Slab:             287756 kB
+SReclaimable:      71896 kB
+SUnreclaim:       215860 kB
+KernelStack:       76096 kB
+PageTables:       113936 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   164722380 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-08-55
+run this app : Kids Transport
+
+MemTotal:        5474772 kB
+MemFree:           91244 kB
+MemAvailable:     926000 kB
+Buffers:            9652 kB
+Cached:           963820 kB
+SwapCached:        10696 kB
+Active:          1184060 kB
+Inactive:        1188936 kB
+Active(anon):     701788 kB
+Inactive(anon):   701732 kB
+Active(file):     482272 kB
+Inactive(file):   487204 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:         104448 kB
+Dirty:              1040 kB
+Writeback:             0 kB
+AnonPages:       1397024 kB
+Mapped:           690412 kB
+Shmem:              3628 kB
+Slab:             287848 kB
+SReclaimable:      72288 kB
+SUnreclaim:       215560 kB
+KernelStack:       74352 kB
+PageTables:       114912 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   169674752 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-09-23
+run this app : Hill Climb Racing
+
+MemTotal:        5474772 kB
+MemFree:           94772 kB
+MemAvailable:     750240 kB
+Buffers:            9292 kB
+Cached:           786468 kB
+SwapCached:        12808 kB
+Active:          1105176 kB
+Inactive:        1105368 kB
+Active(anon):     710268 kB
+Inactive(anon):   710048 kB
+Active(file):     394908 kB
+Inactive(file):   395320 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:            160 kB
+Dirty:              1340 kB
+Writeback:             0 kB
+AnonPages:       1409936 kB
+Mapped:           649868 kB
+Shmem:              5516 kB
+Slab:             287664 kB
+SReclaimable:      72204 kB
+SUnreclaim:       215460 kB
+KernelStack:       77184 kB
+PageTables:       118648 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   173113028 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:              92 kB
+
+
+
+2023-04-13_00-09-35
+run this app : Call Recorder
+
+MemTotal:        5474772 kB
+MemFree:           93640 kB
+MemAvailable:     733008 kB
+Buffers:            9472 kB
+Cached:           770424 kB
+SwapCached:        12708 kB
+Active:          1158004 kB
+Inactive:        1081572 kB
+Active(anon):     734624 kB
+Inactive(anon):   731024 kB
+Active(file):     423380 kB
+Inactive(file):   350548 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:            108 kB
+Dirty:              4468 kB
+Writeback:             0 kB
+AnonPages:       1455068 kB
+Mapped:           627000 kB
+Shmem:              5536 kB
+Slab:             288832 kB
+SReclaimable:      72608 kB
+SUnreclaim:       216224 kB
+KernelStack:       78976 kB
+PageTables:       121108 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   176483972 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             912 kB
+
+
+
+2023-04-13_00-09-48
+run this app : Kik
+
+MemTotal:        5474772 kB
+MemFree:           83396 kB
+MemAvailable:     633456 kB
+Buffers:            5524 kB
+Cached:           685352 kB
+SwapCached:        14204 kB
+Active:          1143716 kB
+Inactive:        1103844 kB
+Active(anon):     784276 kB
+Inactive(anon):   778616 kB
+Active(file):     359440 kB
+Inactive(file):   325228 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:             16 kB
+Dirty:               108 kB
+Writeback:             0 kB
+AnonPages:       1550980 kB
+Mapped:           521592 kB
+Shmem:              5452 kB
+Slab:             290396 kB
+SReclaimable:      72508 kB
+SUnreclaim:       217888 kB
+KernelStack:       82512 kB
+PageTables:       125544 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   183747660 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             160 kB
+
+
+
+2023-04-13_00-10-05
+run this app : Color Fill 3D
+
+MemTotal:        5474772 kB
+MemFree:           80112 kB
+MemAvailable:     485416 kB
+Buffers:            4704 kB
+Cached:           542152 kB
+SwapCached:        11776 kB
+Active:          1071800 kB
+Inactive:        1071880 kB
+Active(anon):     801528 kB
+Inactive(anon):   801728 kB
+Active(file):     270272 kB
+Inactive(file):   270152 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:           8320 kB
+Dirty:               172 kB
+Writeback:             0 kB
+AnonPages:       1594008 kB
+Mapped:           454380 kB
+Shmem:              5360 kB
+Slab:             288300 kB
+SReclaimable:      71484 kB
+SUnreclaim:       216816 kB
+KernelStack:       80608 kB
+PageTables:       119672 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   169023916 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             148 kB
+
+
+
+2023-04-13_00-10-24
+run this app : Etsy
+
+MemTotal:        5474772 kB
+MemFree:           92244 kB
+MemAvailable:     717060 kB
+Buffers:            9384 kB
+Cached:           755680 kB
+SwapCached:        14276 kB
+Active:          1174732 kB
+Inactive:        1174944 kB
+Active(anon):     795824 kB
+Inactive(anon):   794328 kB
+Active(file):     378908 kB
+Inactive(file):   380616 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:          10736 kB
+Dirty:              1680 kB
+Writeback:             0 kB
+AnonPages:       1578180 kB
+Mapped:           615428 kB
+Shmem:              5288 kB
+Slab:             289624 kB
+SReclaimable:      72312 kB
+SUnreclaim:       217312 kB
+KernelStack:       83552 kB
+PageTables:       124404 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   178207276 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             456 kB
+
+
+
+2023-04-13_00-10-37
+run this app : Pi
+
+MemTotal:        5474772 kB
+MemFree:          127496 kB
+MemAvailable:     686072 kB
+Buffers:            7364 kB
+Cached:           692956 kB
+SwapCached:        14336 kB
+Active:          1170672 kB
+Inactive:        1136088 kB
+Active(anon):     812040 kB
+Inactive(anon):   801360 kB
+Active(file):     358632 kB
+Inactive(file):   334728 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:            164 kB
+Dirty:                92 kB
+Writeback:             0 kB
+AnonPages:       1601840 kB
+Mapped:           584556 kB
+Shmem:              5300 kB
+Slab:             290836 kB
+SReclaimable:      72160 kB
+SUnreclaim:       218676 kB
+KernelStack:       84800 kB
+PageTables:       127284 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   183494624 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             592 kB
+
+
+
+2023-04-13_00-10-58
+run this app : Soccer Star
+
+MemTotal:        5474772 kB
+MemFree:          111476 kB
+MemAvailable:     714612 kB
+Buffers:            5832 kB
+Cached:           737808 kB
+SwapCached:        10848 kB
+Active:          1256816 kB
+Inactive:        1193760 kB
+Active(anon):     871488 kB
+Inactive(anon):   841216 kB
+Active(file):     385328 kB
+Inactive(file):   352544 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:         297144 kB
+Dirty:              1048 kB
+Writeback:             0 kB
+AnonPages:       1703376 kB
+Mapped:           567540 kB
+Shmem:              5620 kB
+Slab:             291920 kB
+SReclaimable:      72252 kB
+SUnreclaim:       219668 kB
+KernelStack:       78112 kB
+PageTables:       120248 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   175091032 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-11-13
+run this app : Puffin
+
+MemTotal:        5474772 kB
+MemFree:           91476 kB
+MemAvailable:     865456 kB
+Buffers:            6784 kB
+Cached:           907520 kB
+SwapCached:        10460 kB
+Active:          1209544 kB
+Inactive:        1207552 kB
+Active(anon):     754276 kB
+Inactive(anon):   754080 kB
+Active(file):     455268 kB
+Inactive(file):   453472 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:          82144 kB
+Dirty:              6256 kB
+Writeback:             0 kB
+AnonPages:       1500440 kB
+Mapped:           590504 kB
+Shmem:              4212 kB
+Slab:             291796 kB
+SReclaimable:      72204 kB
+SUnreclaim:       219592 kB
+KernelStack:       80928 kB
+PageTables:       123056 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   178487132 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:              40 kB
+
+
+
+2023-04-13_00-11-29
+run this app : Crunchyroll
+
+MemTotal:        5474772 kB
+MemFree:          102340 kB
+MemAvailable:     842040 kB
+Buffers:            8520 kB
+Cached:           870060 kB
+SwapCached:        11968 kB
+Active:          1189360 kB
+Inactive:        1188932 kB
+Active(anon):     751380 kB
+Inactive(anon):   752408 kB
+Active(file):     437980 kB
+Inactive(file):   436524 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:            536 kB
+Dirty:              3556 kB
+Writeback:             0 kB
+AnonPages:       1494540 kB
+Mapped:           623208 kB
+Shmem:              4060 kB
+Slab:             291788 kB
+SReclaimable:      72116 kB
+SUnreclaim:       219672 kB
+KernelStack:       82240 kB
+PageTables:       124736 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   180486132 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-11-45
+run this app : VLC
+
+MemTotal:        5474772 kB
+MemFree:          113748 kB
+MemAvailable:     793948 kB
+Buffers:            8388 kB
+Cached:           810056 kB
+SwapCached:        11928 kB
+Active:          1159132 kB
+Inactive:        1174184 kB
+Active(anon):     751120 kB
+Inactive(anon):   767180 kB
+Active(file):     408012 kB
+Inactive(file):   407004 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:           1620 kB
+Dirty:              1900 kB
+Writeback:             0 kB
+AnonPages:       1510116 kB
+Mapped:           631932 kB
+Shmem:              3408 kB
+Slab:             291732 kB
+SReclaimable:      72092 kB
+SUnreclaim:       219640 kB
+KernelStack:       82976 kB
+PageTables:       125984 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   182441444 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             144 kB
+
+
+
+2023-04-13_00-12-01
+run this app : eToro
+
+MemTotal:        5474772 kB
+MemFree:           89556 kB
+MemAvailable:     591764 kB
+Buffers:            5008 kB
+Cached:           635852 kB
+SwapCached:        11096 kB
+Active:          1265180 kB
+Inactive:        1113428 kB
+Active(anon):     941528 kB
+Inactive(anon):   800004 kB
+Active(file):     323652 kB
+Inactive(file):   313424 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:               892 kB
+Writeback:             0 kB
+AnonPages:       1733324 kB
+Mapped:           579116 kB
+Shmem:              3576 kB
+Slab:             291720 kB
+SReclaimable:      71992 kB
+SUnreclaim:       219728 kB
+KernelStack:       83408 kB
+PageTables:       127456 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   183897964 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            4732 kB
+
+
+
+2023-04-13_00-12-17
+run this app : GroupMe
+
+MemTotal:        5474772 kB
+MemFree:          107772 kB
+MemAvailable:     666868 kB
+Buffers:            6872 kB
+Cached:           690932 kB
+SwapCached:        12772 kB
+Active:          1104140 kB
+Inactive:        1127968 kB
+Active(anon):     756076 kB
+Inactive(anon):   782044 kB
+Active(file):     348064 kB
+Inactive(file):   345924 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:             80 kB
+Dirty:              2068 kB
+Writeback:             0 kB
+AnonPages:       1529204 kB
+Mapped:           426964 kB
+Shmem:              3256 kB
+Slab:             291140 kB
+SReclaimable:      71944 kB
+SUnreclaim:       219196 kB
+KernelStack:       78464 kB
+PageTables:       117028 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   165482188 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-12-44
+run this app : DNA Evolution 3D
+
+MemTotal:        5474772 kB
+MemFree:          129140 kB
+MemAvailable:     903704 kB
+Buffers:           26192 kB
+Cached:           887596 kB
+SwapCached:        12084 kB
+Active:          1150344 kB
+Inactive:        1139004 kB
+Active(anon):     678284 kB
+Inactive(anon):   701788 kB
+Active(file):     472060 kB
+Inactive(file):   437216 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:           1580 kB
+Dirty:               468 kB
+Writeback:             0 kB
+AnonPages:       1372612 kB
+Mapped:           630180 kB
+Shmem:              3048 kB
+Slab:             290976 kB
+SReclaimable:      72304 kB
+SUnreclaim:       218672 kB
+KernelStack:       80256 kB
+PageTables:       121696 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   174973332 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            4732 kB
+
+
+
+2023-04-13_00-13-00
+run this app : Bitmoji
+
+MemTotal:        5474772 kB
+MemFree:          121512 kB
+MemAvailable:     835832 kB
+Buffers:           16052 kB
+Cached:           837572 kB
+SwapCached:        14452 kB
+Active:          1160616 kB
+Inactive:        1139268 kB
+Active(anon):     739524 kB
+Inactive(anon):   711360 kB
+Active(file):     421092 kB
+Inactive(file):   427908 kB
+Unevictable:         788 kB
+Mlocked:             788 kB
+SwapTotal:       2621436 kB
+SwapFree:          17268 kB
+Dirty:              1128 kB
+Writeback:             0 kB
+AnonPages:       1440768 kB
+Mapped:           568628 kB
+Shmem:              3412 kB
+Slab:             291056 kB
+SReclaimable:      72368 kB
+SUnreclaim:       218688 kB
+KernelStack:       80880 kB
+PageTables:       123548 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   178877012 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-13-16
+run this app : Amazon Seller
+
+MemTotal:        5474772 kB
+MemFree:          105900 kB
+MemAvailable:     824152 kB
+Buffers:           15176 kB
+Cached:           841192 kB
+SwapCached:        14468 kB
+Active:          1119220 kB
+Inactive:        1131232 kB
+Active(anon):     691220 kB
+Inactive(anon):   706484 kB
+Active(file):     428000 kB
+Inactive(file):   424748 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:            780 kB
+Dirty:              1332 kB
+Writeback:             0 kB
+AnonPages:       1387164 kB
+Mapped:           603868 kB
+Shmem:              3400 kB
+Slab:             291740 kB
+SReclaimable:      72736 kB
+SUnreclaim:       219004 kB
+KernelStack:       80688 kB
+PageTables:       124856 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   182180756 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-13-31
+run this app : WhatsApp
+
+MemTotal:        5474772 kB
+MemFree:          101136 kB
+MemAvailable:     775440 kB
+Buffers:            9328 kB
+Cached:           802968 kB
+SwapCached:        14644 kB
+Active:          1137276 kB
+Inactive:        1127532 kB
+Active(anon):     731188 kB
+Inactive(anon):   724932 kB
+Active(file):     406088 kB
+Inactive(file):   402600 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:           2932 kB
+Dirty:              1820 kB
+Writeback:             0 kB
+AnonPages:       1446332 kB
+Mapped:           578504 kB
+Shmem:              3372 kB
+Slab:             292092 kB
+SReclaimable:      72956 kB
+SUnreclaim:       219136 kB
+KernelStack:       81280 kB
+PageTables:       125984 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   184132416 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:              96 kB
+
+
+
+2023-04-13_00-14-41
+run this app : Candy Crush Jelly
+
+MemTotal:        5474772 kB
+MemFree:           91856 kB
+MemAvailable:     595384 kB
+Buffers:            5716 kB
+Cached:           636348 kB
+SwapCached:        10252 kB
+Active:          1034552 kB
+Inactive:        1035364 kB
+Active(anon):     715528 kB
+Inactive(anon):   716208 kB
+Active(file):     319024 kB
+Inactive(file):   319156 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:            772 kB
+Dirty:              3528 kB
+Writeback:             0 kB
+AnonPages:       1425564 kB
+Mapped:           497852 kB
+Shmem:              3876 kB
+Slab:             291604 kB
+SReclaimable:      72420 kB
+SUnreclaim:       219184 kB
+KernelStack:       78384 kB
+PageTables:       124312 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   180737636 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             140 kB
+
+
+
+2023-04-13_00-15-03
+run this app : Candy Crush Saga
+
+MemTotal:        5474772 kB
+MemFree:          151148 kB
+MemAvailable:     579264 kB
+Buffers:            6688 kB
+Cached:           559272 kB
+SwapCached:        10880 kB
+Active:          1005708 kB
+Inactive:        1012160 kB
+Active(anon):     728752 kB
+Inactive(anon):   726344 kB
+Active(file):     276956 kB
+Inactive(file):   285816 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:         215680 kB
+Dirty:               592 kB
+Writeback:             0 kB
+AnonPages:       1448212 kB
+Mapped:           423852 kB
+Shmem:              3188 kB
+Slab:             290668 kB
+SReclaimable:      72416 kB
+SUnreclaim:       218252 kB
+KernelStack:       73744 kB
+PageTables:       112432 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   159921644 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-15-19
+run this app : NYT Games
+
+MemTotal:        5474772 kB
+MemFree:           91936 kB
+MemAvailable:     626032 kB
+Buffers:           23544 kB
+Cached:           649108 kB
+SwapCached:        13652 kB
+Active:          1057064 kB
+Inactive:        1032476 kB
+Active(anon):     709692 kB
+Inactive(anon):   711156 kB
+Active(file):     347372 kB
+Inactive(file):   321320 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:              4 kB
+Dirty:              1640 kB
+Writeback:             0 kB
+AnonPages:       1411272 kB
+Mapped:           519448 kB
+Shmem:              3048 kB
+Slab:             290804 kB
+SReclaimable:      72532 kB
+SUnreclaim:       218272 kB
+KernelStack:       76816 kB
+PageTables:       116048 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   165223252 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-15-33
+run this app : Simple PDF Reader
+
+MemTotal:        5474772 kB
+MemFree:           89440 kB
+MemAvailable:     529756 kB
+Buffers:            5832 kB
+Cached:           572728 kB
+SwapCached:        13964 kB
+Active:          1028728 kB
+Inactive:        1029024 kB
+Active(anon):     740160 kB
+Inactive(anon):   742508 kB
+Active(file):     288568 kB
+Inactive(file):   286516 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:            272 kB
+Dirty:              1708 kB
+Writeback:             0 kB
+AnonPages:       1472496 kB
+Mapped:           465420 kB
+Shmem:              3148 kB
+Slab:             290420 kB
+SReclaimable:      72192 kB
+SUnreclaim:       218228 kB
+KernelStack:       79392 kB
+PageTables:       121260 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   174374860 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-15-58
+run this app : Crossy Road
+
+MemTotal:        5474772 kB
+MemFree:           92200 kB
+MemAvailable:     607452 kB
+Buffers:            4848 kB
+Cached:           649468 kB
+SwapCached:        10460 kB
+Active:          1049776 kB
+Inactive:         989864 kB
+Active(anon):     725176 kB
+Inactive(anon):   664532 kB
+Active(file):     324600 kB
+Inactive(file):   325332 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:               108 kB
+Writeback:             0 kB
+AnonPages:       1382488 kB
+Mapped:           504520 kB
+Shmem:              3156 kB
+Slab:             290376 kB
+SReclaimable:      72368 kB
+SUnreclaim:       218008 kB
+KernelStack:       78144 kB
+PageTables:       118096 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   169332024 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             560 kB
+
+
+
+2023-04-13_00-16-14
+run this app : FaceApp
+
+MemTotal:        5474772 kB
+MemFree:          100364 kB
+MemAvailable:     625840 kB
+Buffers:            8800 kB
+Cached:           655224 kB
+SwapCached:        11924 kB
+Active:          1031040 kB
+Inactive:        1050444 kB
+Active(anon):     702908 kB
+Inactive(anon):   718272 kB
+Active(file):     328132 kB
+Inactive(file):   332172 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:            612 kB
+Dirty:              6556 kB
+Writeback:             0 kB
+AnonPages:       1412232 kB
+Mapped:           457500 kB
+Shmem:              3052 kB
+Slab:             290068 kB
+SReclaimable:      72068 kB
+SUnreclaim:       218000 kB
+KernelStack:       80432 kB
+PageTables:       120020 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   171315456 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-16-28
+run this app : Lyft
+
+MemTotal:        5474772 kB
+MemFree:          123364 kB
+MemAvailable:     595676 kB
+Buffers:            4836 kB
+Cached:           606516 kB
+SwapCached:         9932 kB
+Active:          1044616 kB
+Inactive:        1036788 kB
+Active(anon):     740948 kB
+Inactive(anon):   733172 kB
+Active(file):     303668 kB
+Inactive(file):   303616 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:           2372 kB
+Dirty:              2596 kB
+Writeback:             0 kB
+AnonPages:       1467064 kB
+Mapped:           406500 kB
+Shmem:              3072 kB
+Slab:             289736 kB
+SReclaimable:      71780 kB
+SUnreclaim:       217956 kB
+KernelStack:       81360 kB
+PageTables:       121436 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   173314796 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             524 kB
+
+
+
+2023-04-13_00-16-42
+run this app : Pou
+
+MemTotal:        5474772 kB
+MemFree:           86576 kB
+MemAvailable:     543500 kB
+Buffers:            5316 kB
+Cached:           594724 kB
+SwapCached:        11380 kB
+Active:          1073148 kB
+Inactive:        1068680 kB
+Active(anon):     777176 kB
+Inactive(anon):   772740 kB
+Active(file):     295972 kB
+Inactive(file):   295940 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:              1972 kB
+Writeback:             0 kB
+AnonPages:       1537456 kB
+Mapped:           479288 kB
+Shmem:              7272 kB
+Slab:             289932 kB
+SReclaimable:      71748 kB
+SUnreclaim:       218184 kB
+KernelStack:       83424 kB
+PageTables:       124404 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   176768660 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             484 kB
+
+
+
+2023-04-13_00-17-10
+run this app : Hide 'N Seek!
+
+MemTotal:        5474772 kB
+MemFree:           93480 kB
+MemAvailable:     645852 kB
+Buffers:            7612 kB
+Cached:           687792 kB
+SwapCached:        10396 kB
+Active:          1115724 kB
+Inactive:        1119540 kB
+Active(anon):     772596 kB
+Inactive(anon):   775160 kB
+Active(file):     343128 kB
+Inactive(file):   344380 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:            284 kB
+Dirty:              1356 kB
+Writeback:             0 kB
+AnonPages:       1538248 kB
+Mapped:           512848 kB
+Shmem:              6592 kB
+Slab:             289012 kB
+SReclaimable:      71452 kB
+SUnreclaim:       217560 kB
+KernelStack:       77280 kB
+PageTables:       116040 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   168135576 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             456 kB
+
+
+
+2023-04-13_00-17-23
+run this app : Telegram
+
+MemTotal:        5474772 kB
+MemFree:           95348 kB
+MemAvailable:     541164 kB
+Buffers:            8876 kB
+Cached:           579476 kB
+SwapCached:        12752 kB
+Active:          1050508 kB
+Inactive:        1061788 kB
+Active(anon):     765984 kB
+Inactive(anon):   765448 kB
+Active(file):     284524 kB
+Inactive(file):   296340 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:          67120 kB
+Dirty:              1336 kB
+Writeback:             0 kB
+AnonPages:       1518348 kB
+Mapped:           432540 kB
+Shmem:              6620 kB
+Slab:             288844 kB
+SReclaimable:      71628 kB
+SUnreclaim:       217216 kB
+KernelStack:       76688 kB
+PageTables:       115540 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   168115908 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-17-37
+run this app : Signal
+
+MemTotal:        5474772 kB
+MemFree:           91816 kB
+MemAvailable:     571032 kB
+Buffers:            6928 kB
+Cached:           613860 kB
+SwapCached:        12972 kB
+Active:          1065964 kB
+Inactive:        1056732 kB
+Active(anon):     754500 kB
+Inactive(anon):   754032 kB
+Active(file):     311464 kB
+Inactive(file):   302700 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:             64 kB
+Dirty:              2460 kB
+Writeback:             0 kB
+AnonPages:       1497160 kB
+Mapped:           501396 kB
+Shmem:              6520 kB
+Slab:             288576 kB
+SReclaimable:      71832 kB
+SUnreclaim:       216744 kB
+KernelStack:       76976 kB
+PageTables:       116676 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   170598556 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-17-56
+run this app : Kindle
+
+MemTotal:        5474772 kB
+MemFree:          109224 kB
+MemAvailable:     708184 kB
+Buffers:            6776 kB
+Cached:           736252 kB
+SwapCached:        14744 kB
+Active:          1115592 kB
+Inactive:        1180076 kB
+Active(anon):     812300 kB
+Inactive(anon):   749376 kB
+Active(file):     303292 kB
+Inactive(file):   430700 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:         242044 kB
+Dirty:                16 kB
+Writeback:             0 kB
+AnonPages:       1546724 kB
+Mapped:           578404 kB
+Shmem:              7720 kB
+Slab:             287844 kB
+SReclaimable:      71664 kB
+SUnreclaim:       216180 kB
+KernelStack:       77056 kB
+PageTables:       113288 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   162368772 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-18-11
+run this app : Firefox
+
+MemTotal:        5474772 kB
+MemFree:           96304 kB
+MemAvailable:     727828 kB
+Buffers:            6116 kB
+Cached:           766860 kB
+SwapCached:        13756 kB
+Active:          1135660 kB
+Inactive:        1131920 kB
+Active(anon):     750708 kB
+Inactive(anon):   750424 kB
+Active(file):     384952 kB
+Inactive(file):   381496 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:          74352 kB
+Dirty:                80 kB
+Writeback:             0 kB
+AnonPages:       1488888 kB
+Mapped:           614176 kB
+Shmem:              5956 kB
+Slab:             288040 kB
+SReclaimable:      71876 kB
+SUnreclaim:       216164 kB
+KernelStack:       79136 kB
+PageTables:       117244 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   168240168 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-18-34
+run this app : Coinbase
+
+MemTotal:        5474772 kB
+MemFree:          102192 kB
+MemAvailable:     731400 kB
+Buffers:            7452 kB
+Cached:           760288 kB
+SwapCached:        10624 kB
+Active:          1175496 kB
+Inactive:        1104232 kB
+Active(anon):     774788 kB
+Inactive(anon):   740788 kB
+Active(file):     400708 kB
+Inactive(file):   363444 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:            300 kB
+Dirty:              1532 kB
+Writeback:             0 kB
+AnonPages:       1508516 kB
+Mapped:           680652 kB
+Shmem:              3544 kB
+Slab:             287856 kB
+SReclaimable:      71840 kB
+SUnreclaim:       216016 kB
+KernelStack:       79072 kB
+PageTables:       117104 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   168239768 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            1208 kB
+
+
+
+2023-04-13_00-18-58
+run this app : Candy Crush Soda
+
+MemTotal:        5474772 kB
+MemFree:          114184 kB
+MemAvailable:     571612 kB
+Buffers:            3792 kB
+Cached:           593108 kB
+SwapCached:         9824 kB
+Active:          1068140 kB
+Inactive:        1084964 kB
+Active(anon):     778432 kB
+Inactive(anon):   782172 kB
+Active(file):     289708 kB
+Inactive(file):   302792 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:          18288 kB
+Dirty:              2984 kB
+Writeback:             0 kB
+AnonPages:       1554752 kB
+Mapped:           498608 kB
+Shmem:              3588 kB
+Slab:             287628 kB
+SReclaimable:      71580 kB
+SUnreclaim:       216048 kB
+KernelStack:       77568 kB
+PageTables:       116124 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   166236240 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-19-25
+run this app : Kids Transport
+
+MemTotal:        5474772 kB
+MemFree:          120236 kB
+MemAvailable:     935604 kB
+Buffers:            9304 kB
+Cached:           945076 kB
+SwapCached:        11188 kB
+Active:          1193448 kB
+Inactive:        1197164 kB
+Active(anon):     720516 kB
+Inactive(anon):   719624 kB
+Active(file):     472932 kB
+Inactive(file):   477540 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:         152520 kB
+Dirty:              3816 kB
+Writeback:             0 kB
+AnonPages:       1432500 kB
+Mapped:           657940 kB
+Shmem:              3580 kB
+Slab:             287484 kB
+SReclaimable:      71520 kB
+SUnreclaim:       215964 kB
+KernelStack:       74960 kB
+PageTables:       113868 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   167756700 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:              92 kB
+
+
+
+2023-04-13_00-19-53
+run this app : Hill Climb Racing
+
+MemTotal:        5474772 kB
+MemFree:           93372 kB
+MemAvailable:     794152 kB
+Buffers:           11676 kB
+Cached:           829160 kB
+SwapCached:        13128 kB
+Active:          1102216 kB
+Inactive:        1099840 kB
+Active(anon):     683400 kB
+Inactive(anon):   682988 kB
+Active(file):     418816 kB
+Inactive(file):   416852 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:              1248 kB
+Writeback:             0 kB
+AnonPages:       1356592 kB
+Mapped:           668128 kB
+Shmem:              4744 kB
+Slab:             288288 kB
+SReclaimable:      71948 kB
+SUnreclaim:       216340 kB
+KernelStack:       77568 kB
+PageTables:       118568 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   173111356 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-20-05
+run this app : Call Recorder
+
+MemTotal:        5474772 kB
+MemFree:          104048 kB
+MemAvailable:     773852 kB
+Buffers:            9392 kB
+Cached:           801100 kB
+SwapCached:        13220 kB
+Active:          1140684 kB
+Inactive:        1077300 kB
+Active(anon):     713156 kB
+Inactive(anon):   700152 kB
+Active(file):     427528 kB
+Inactive(file):   377148 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:            304 kB
+Dirty:              4492 kB
+Writeback:             0 kB
+AnonPages:       1403080 kB
+Mapped:           649036 kB
+Shmem:              4700 kB
+Slab:             289084 kB
+SReclaimable:      71980 kB
+SUnreclaim:       217104 kB
+KernelStack:       79568 kB
+PageTables:       120852 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   176492708 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:              52 kB
+
+
+
+2023-04-13_00-20-18
+run this app : Kik
+
+MemTotal:        5474772 kB
+MemFree:           54528 kB
+MemAvailable:     596172 kB
+Buffers:            5820 kB
+Cached:           676216 kB
+SwapCached:        13624 kB
+Active:          1128228 kB
+Inactive:        1122492 kB
+Active(anon):     789780 kB
+Inactive(anon):   784280 kB
+Active(file):     338448 kB
+Inactive(file):   338212 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:               128 kB
+Writeback:             0 kB
+AnonPages:       1563292 kB
+Mapped:           517844 kB
+Shmem:              5136 kB
+Slab:             290652 kB
+SReclaimable:      71692 kB
+SUnreclaim:       218960 kB
+KernelStack:       83248 kB
+PageTables:       125832 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   183794920 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             148 kB
+
+
+
+2023-04-13_00-20-36
+run this app : Color Fill 3D
+
+MemTotal:        5474772 kB
+MemFree:          100608 kB
+MemAvailable:     670944 kB
+Buffers:            6176 kB
+Cached:           705808 kB
+SwapCached:        16972 kB
+Active:          1196568 kB
+Inactive:        1169476 kB
+Active(anon):     855828 kB
+Inactive(anon):   804348 kB
+Active(file):     340740 kB
+Inactive(file):   365128 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:         261260 kB
+Dirty:              1628 kB
+Writeback:             0 kB
+AnonPages:       1648080 kB
+Mapped:           574668 kB
+Shmem:              5196 kB
+Slab:             288864 kB
+SReclaimable:      70664 kB
+SUnreclaim:       218200 kB
+KernelStack:       80800 kB
+PageTables:       118532 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   170323024 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-20-55
+run this app : Etsy
+
+MemTotal:        5474772 kB
+MemFree:          101840 kB
+MemAvailable:     722392 kB
+Buffers:            9364 kB
+Cached:           751484 kB
+SwapCached:        17060 kB
+Active:          1156500 kB
+Inactive:        1163436 kB
+Active(anon):     780036 kB
+Inactive(anon):   784184 kB
+Active(file):     376464 kB
+Inactive(file):   379252 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:            140 kB
+Dirty:               228 kB
+Writeback:             0 kB
+AnonPages:       1551044 kB
+Mapped:           626784 kB
+Shmem:              4904 kB
+Slab:             289620 kB
+SReclaimable:      71400 kB
+SUnreclaim:       218220 kB
+KernelStack:       83568 kB
+PageTables:       121736 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   172965072 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-21-09
+run this app : Pi
+
+MemTotal:        5474772 kB
+MemFree:           95356 kB
+MemAvailable:     740604 kB
+Buffers:            8956 kB
+Cached:           777296 kB
+SwapCached:        15908 kB
+Active:          1194928 kB
+Inactive:        1137936 kB
+Active(anon):     776228 kB
+Inactive(anon):   776256 kB
+Active(file):     418700 kB
+Inactive(file):   361680 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:          10312 kB
+Dirty:               248 kB
+Writeback:             0 kB
+AnonPages:       1541364 kB
+Mapped:           629296 kB
+Shmem:              5232 kB
+Slab:             289660 kB
+SReclaimable:      71460 kB
+SUnreclaim:       218200 kB
+KernelStack:       83696 kB
+PageTables:       123088 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   176335776 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             456 kB
+
+
+
+2023-04-13_00-21-30
+run this app : Soccer Star
+
+MemTotal:        5474772 kB
+MemFree:           93968 kB
+MemAvailable:     655364 kB
+Buffers:            5704 kB
+Cached:           695868 kB
+SwapCached:        15228 kB
+Active:          1239248 kB
+Inactive:        1208148 kB
+Active(anon):     897788 kB
+Inactive(anon):   852996 kB
+Active(file):     341460 kB
+Inactive(file):   355152 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:         384504 kB
+Dirty:              1504 kB
+Writeback:             0 kB
+AnonPages:       1740056 kB
+Mapped:           539132 kB
+Shmem:              4364 kB
+Slab:             289732 kB
+SReclaimable:      71296 kB
+SUnreclaim:       218436 kB
+KernelStack:       77360 kB
+PageTables:       115692 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   165993100 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-21-44
+run this app : Puffin
+
+MemTotal:        5474772 kB
+MemFree:           68240 kB
+MemAvailable:     812392 kB
+Buffers:            7208 kB
+Cached:           876996 kB
+SwapCached:        13276 kB
+Active:          1213276 kB
+Inactive:        1209504 kB
+Active(anon):     772824 kB
+Inactive(anon):   770784 kB
+Active(file):     440452 kB
+Inactive(file):   438720 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:          86340 kB
+Dirty:             10868 kB
+Writeback:             0 kB
+AnonPages:       1533844 kB
+Mapped:           591720 kB
+Shmem:              4964 kB
+Slab:             290244 kB
+SReclaimable:      71688 kB
+SUnreclaim:       218556 kB
+KernelStack:       80560 kB
+PageTables:       119904 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   171338716 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-22-01
+run this app : Crunchyroll
+
+MemTotal:        5474772 kB
+MemFree:           97780 kB
+MemAvailable:     760956 kB
+Buffers:            7288 kB
+Cached:           794608 kB
+SwapCached:        14052 kB
+Active:          1185996 kB
+Inactive:        1176616 kB
+Active(anon):     780316 kB
+Inactive(anon):   784068 kB
+Active(file):     405680 kB
+Inactive(file):   392548 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:             64 kB
+Dirty:              4252 kB
+Writeback:             0 kB
+AnonPages:       1556276 kB
+Mapped:           590528 kB
+Shmem:              3248 kB
+Slab:             289924 kB
+SReclaimable:      71624 kB
+SUnreclaim:       218300 kB
+KernelStack:       81648 kB
+PageTables:       122332 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   175272232 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-22-17
+run this app : VLC
+
+MemTotal:        5474772 kB
+MemFree:           90644 kB
+MemAvailable:     738556 kB
+Buffers:            8292 kB
+Cached:           778212 kB
+SwapCached:        12624 kB
+Active:          1158364 kB
+Inactive:        1164316 kB
+Active(anon):     766220 kB
+Inactive(anon):   773596 kB
+Active(file):     392144 kB
+Inactive(file):   390720 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:            276 kB
+Dirty:                 4 kB
+Writeback:             0 kB
+AnonPages:       1531360 kB
+Mapped:           619328 kB
+Shmem:              3088 kB
+Slab:             290096 kB
+SReclaimable:      71824 kB
+SUnreclaim:       218272 kB
+KernelStack:       82208 kB
+PageTables:       123732 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   177225940 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-22-31
+run this app : eToro
+
+MemTotal:        5474772 kB
+MemFree:          100120 kB
+MemAvailable:     550044 kB
+Buffers:            6096 kB
+Cached:           582096 kB
+SwapCached:        12384 kB
+Active:          1233424 kB
+Inactive:        1118152 kB
+Active(anon):     940928 kB
+Inactive(anon):   825576 kB
+Active(file):     292496 kB
+Inactive(file):   292576 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:               516 kB
+Writeback:             0 kB
+AnonPages:       1757648 kB
+Mapped:           532488 kB
+Shmem:              3260 kB
+Slab:             290008 kB
+SReclaimable:      71432 kB
+SUnreclaim:       218576 kB
+KernelStack:       83712 kB
+PageTables:       126660 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   180630840 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            7444 kB
+
+
+
+2023-04-13_00-22-47
+run this app : GroupMe
+
+MemTotal:        5474772 kB
+MemFree:          101944 kB
+MemAvailable:     773736 kB
+Buffers:            7592 kB
+Cached:           802868 kB
+SwapCached:        14036 kB
+Active:          1144196 kB
+Inactive:        1236584 kB
+Active(anon):     782324 kB
+Inactive(anon):   791380 kB
+Active(file):     361872 kB
+Inactive(file):   445204 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:         426400 kB
+Dirty:              2020 kB
+Writeback:             0 kB
+AnonPages:       1563660 kB
+Mapped:           516320 kB
+Shmem:              3268 kB
+Slab:             289840 kB
+SReclaimable:      71156 kB
+SUnreclaim:       218684 kB
+KernelStack:       75712 kB
+PageTables:       115292 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   167503432 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             184 kB
+
+
+
+2023-04-13_00-23-13
+run this app : DNA Evolution 3D
+
+MemTotal:        5474772 kB
+MemFree:          110584 kB
+MemAvailable:     828696 kB
+Buffers:           26244 kB
+Cached:           831008 kB
+SwapCached:        10736 kB
+Active:          1188604 kB
+Inactive:        1096456 kB
+Active(anon):     720192 kB
+Inactive(anon):   711708 kB
+Active(file):     468412 kB
+Inactive(file):   384748 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:           1112 kB
+Dirty:              2792 kB
+Writeback:             0 kB
+AnonPages:       1426160 kB
+Mapped:           607544 kB
+Shmem:              3152 kB
+Slab:             290332 kB
+SReclaimable:      71632 kB
+SUnreclaim:       218700 kB
+KernelStack:       80688 kB
+PageTables:       122168 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   175014580 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            8436 kB
+
+
+
+2023-04-13_00-23-34
+run this app : Bitmoji
+
+MemTotal:        5474772 kB
+MemFree:          142820 kB
+MemAvailable:     713540 kB
+Buffers:           14100 kB
+Cached:           695636 kB
+SwapCached:        12128 kB
+Active:          1115768 kB
+Inactive:        1108908 kB
+Active(anon):     763388 kB
+Inactive(anon):   755484 kB
+Active(file):     352380 kB
+Inactive(file):   353424 kB
+Unevictable:         804 kB
+Mlocked:             804 kB
+SwapTotal:       2621436 kB
+SwapFree:           4412 kB
+Dirty:               124 kB
+Writeback:             0 kB
+AnonPages:       1510208 kB
+Mapped:           500096 kB
+Shmem:              3876 kB
+Slab:             290444 kB
+SReclaimable:      71560 kB
+SUnreclaim:       218884 kB
+KernelStack:       82128 kB
+PageTables:       123476 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   177010848 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:              24 kB
+
+
+
+2023-04-13_00-23-50
+run this app : Amazon Seller
+
+MemTotal:        5474772 kB
+MemFree:           90640 kB
+MemAvailable:     705988 kB
+Buffers:            7224 kB
+Cached:           747184 kB
+SwapCached:        13276 kB
+Active:          1103200 kB
+Inactive:        1119384 kB
+Active(anon):     731772 kB
+Inactive(anon):   740456 kB
+Active(file):     371428 kB
+Inactive(file):   378928 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:           3988 kB
+Dirty:               132 kB
+Writeback:             0 kB
+AnonPages:       1462712 kB
+Mapped:           532288 kB
+Shmem:              3632 kB
+Slab:             290628 kB
+SReclaimable:      71712 kB
+SUnreclaim:       218916 kB
+KernelStack:       81776 kB
+PageTables:       125176 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   180313972 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-24-05
+run this app : WhatsApp
+
+MemTotal:        5474772 kB
+MemFree:          103632 kB
+MemAvailable:     671144 kB
+Buffers:            7592 kB
+Cached:           698276 kB
+SwapCached:        12700 kB
+Active:          1107868 kB
+Inactive:        1110628 kB
+Active(anon):     746504 kB
+Inactive(anon):   769736 kB
+Active(file):     361364 kB
+Inactive(file):   340892 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:          16352 kB
+Dirty:               224 kB
+Writeback:             0 kB
+AnonPages:       1507952 kB
+Mapped:           566216 kB
+Shmem:              3612 kB
+Slab:             291136 kB
+SReclaimable:      72236 kB
+SUnreclaim:       218900 kB
+KernelStack:       82512 kB
+PageTables:       126200 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   182272624 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-24-56
+run this app : Candy Crush Jelly
+
+MemTotal:        5474772 kB
+MemFree:           94204 kB
+MemAvailable:     526400 kB
+Buffers:            7032 kB
+Cached:           565112 kB
+SwapCached:        11180 kB
+Active:          1006040 kB
+Inactive:        1010264 kB
+Active(anon):     722244 kB
+Inactive(anon):   726636 kB
+Active(file):     283796 kB
+Inactive(file):   283628 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:            152 kB
+Dirty:              2524 kB
+Writeback:             0 kB
+AnonPages:       1440444 kB
+Mapped:           450744 kB
+Shmem:              3988 kB
+Slab:             289828 kB
+SReclaimable:      71272 kB
+SUnreclaim:       218556 kB
+KernelStack:       78080 kB
+PageTables:       118084 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   165358232 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-25-15
+run this app : Candy Crush Saga
+
+MemTotal:        5474772 kB
+MemFree:          263084 kB
+MemAvailable:     716608 kB
+Buffers:            6268 kB
+Cached:           586612 kB
+SwapCached:        11112 kB
+Active:           955084 kB
+Inactive:         986228 kB
+Active(anon):     659588 kB
+Inactive(anon):   693044 kB
+Active(file):     295496 kB
+Inactive(file):   293184 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:         244440 kB
+Dirty:             13956 kB
+Writeback:             0 kB
+AnonPages:       1344564 kB
+Mapped:           447964 kB
+Shmem:              3576 kB
+Slab:             289584 kB
+SReclaimable:      71416 kB
+SUnreclaim:       218168 kB
+KernelStack:       73008 kB
+PageTables:       109440 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   154689760 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-25-29
+run this app : NYT Games
+
+MemTotal:        5474772 kB
+MemFree:           94428 kB
+MemAvailable:     753512 kB
+Buffers:           25136 kB
+Cached:           772480 kB
+SwapCached:        13220 kB
+Active:          1088332 kB
+Inactive:        1088540 kB
+Active(anon):     691556 kB
+Inactive(anon):   691280 kB
+Active(file):     396776 kB
+Inactive(file):   397260 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:         123996 kB
+Dirty:              1788 kB
+Writeback:             0 kB
+AnonPages:       1372900 kB
+Mapped:           585872 kB
+Shmem:              3544 kB
+Slab:             290028 kB
+SReclaimable:      71820 kB
+SUnreclaim:       218208 kB
+KernelStack:       75872 kB
+PageTables:       111916 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   158063204 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             116 kB
+
+
+
+2023-04-13_00-25-41
+run this app : Simple PDF Reader
+
+MemTotal:        5474772 kB
+MemFree:          127236 kB
+MemAvailable:     820840 kB
+Buffers:           15404 kB
+Cached:           817744 kB
+SwapCached:        13444 kB
+Active:          1070680 kB
+Inactive:        1084264 kB
+Active(anon):     661964 kB
+Inactive(anon):   664236 kB
+Active(file):     408716 kB
+Inactive(file):   420028 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:           8728 kB
+Dirty:              4152 kB
+Writeback:             0 kB
+AnonPages:       1316396 kB
+Mapped:           588400 kB
+Shmem:              3656 kB
+Slab:             289664 kB
+SReclaimable:      71444 kB
+SUnreclaim:       218220 kB
+KernelStack:       78000 kB
+PageTables:       115020 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   163362520 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-26-05
+run this app : Crossy Road
+
+MemTotal:        5474772 kB
+MemFree:           78180 kB
+MemAvailable:     577740 kB
+Buffers:            5320 kB
+Cached:           633116 kB
+SwapCached:        12504 kB
+Active:          1036440 kB
+Inactive:        1015072 kB
+Active(anon):     715652 kB
+Inactive(anon):   701084 kB
+Active(file):     320788 kB
+Inactive(file):   313988 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:         123356 kB
+Dirty:              2180 kB
+Writeback:             0 kB
+AnonPages:       1408372 kB
+Mapped:           503952 kB
+Shmem:              2928 kB
+Slab:             289308 kB
+SReclaimable:      71292 kB
+SUnreclaim:       218016 kB
+KernelStack:       74800 kB
+PageTables:       112244 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   160123468 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             224 kB
+
+
+
+2023-04-13_00-26-22
+run this app : FaceApp
+
+MemTotal:        5474772 kB
+MemFree:           90168 kB
+MemAvailable:     739996 kB
+Buffers:            9464 kB
+Cached:           778868 kB
+SwapCached:        11372 kB
+Active:          1079708 kB
+Inactive:        1105856 kB
+Active(anon):     700452 kB
+Inactive(anon):   700248 kB
+Active(file):     379256 kB
+Inactive(file):   405608 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:          31932 kB
+Dirty:              1012 kB
+Writeback:             0 kB
+AnonPages:       1393676 kB
+Mapped:           491456 kB
+Shmem:              2660 kB
+Slab:             289624 kB
+SReclaimable:      71656 kB
+SUnreclaim:       217968 kB
+KernelStack:       77936 kB
+PageTables:       115160 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   164044128 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-26-35
+run this app : Lyft
+
+MemTotal:        5474772 kB
+MemFree:           95752 kB
+MemAvailable:     728164 kB
+Buffers:           10436 kB
+Cached:           759916 kB
+SwapCached:        11460 kB
+Active:          1088704 kB
+Inactive:        1095768 kB
+Active(anon):     706184 kB
+Inactive(anon):   710972 kB
+Active(file):     382520 kB
+Inactive(file):   384796 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:            192 kB
+Dirty:              2008 kB
+Writeback:             0 kB
+AnonPages:       1408912 kB
+Mapped:           521248 kB
+Shmem:              2656 kB
+Slab:             289936 kB
+SReclaimable:      71920 kB
+SUnreclaim:       218016 kB
+KernelStack:       79312 kB
+PageTables:       117684 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   167989840 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             124 kB
+
+
+
+2023-04-13_00-26-51
+run this app : Pou
+
+MemTotal:        5474772 kB
+MemFree:           93012 kB
+MemAvailable:     690356 kB
+Buffers:            6176 kB
+Cached:           733352 kB
+SwapCached:        13096 kB
+Active:          1109988 kB
+Inactive:        1112292 kB
+Active(anon):     744392 kB
+Inactive(anon):   745352 kB
+Active(file):     365596 kB
+Inactive(file):   366940 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:            456 kB
+Dirty:              2120 kB
+Writeback:             0 kB
+AnonPages:       1476504 kB
+Mapped:           554976 kB
+Shmem:              6888 kB
+Slab:             289364 kB
+SReclaimable:      71340 kB
+SUnreclaim:       218024 kB
+KernelStack:       81120 kB
+PageTables:       120520 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   171441400 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-27-16
+run this app : Hide 'N Seek!
+
+MemTotal:        5474772 kB
+MemFree:          108300 kB
+MemAvailable:     643988 kB
+Buffers:            7716 kB
+Cached:           669896 kB
+SwapCached:         9040 kB
+Active:          1148016 kB
+Inactive:        1081452 kB
+Active(anon):     781136 kB
+Inactive(anon):   777344 kB
+Active(file):     366880 kB
+Inactive(file):   304108 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:           1696 kB
+Dirty:              1400 kB
+Writeback:             0 kB
+AnonPages:       1549268 kB
+Mapped:           495084 kB
+Shmem:              6624 kB
+Slab:             288336 kB
+SReclaimable:      71124 kB
+SUnreclaim:       217212 kB
+KernelStack:       77120 kB
+PageTables:       114672 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   164290860 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-27-29
+run this app : Telegram
+
+MemTotal:        5474772 kB
+MemFree:          106480 kB
+MemAvailable:     500380 kB
+Buffers:            6136 kB
+Cached:           531420 kB
+SwapCached:        12168 kB
+Active:          1065184 kB
+Inactive:        1049336 kB
+Active(anon):     800972 kB
+Inactive(anon):   784348 kB
+Active(file):     264212 kB
+Inactive(file):   264988 kB
+Unevictable:         580 kB
+Mlocked:             580 kB
+SwapTotal:       2621436 kB
+SwapFree:          24752 kB
+Dirty:              2268 kB
+Writeback:             0 kB
+AnonPages:       1573056 kB
+Mapped:           408896 kB
+Shmem:              7124 kB
+Slab:             288388 kB
+SReclaimable:      71128 kB
+SUnreclaim:       217260 kB
+KernelStack:       78064 kB
+PageTables:       114684 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   164295996 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             156 kB
+
+
+
+2023-04-13_00-27-44
+run this app : Signal
+
+MemTotal:        5474772 kB
+MemFree:           89168 kB
+MemAvailable:     557604 kB
+Buffers:            7280 kB
+Cached:           603592 kB
+SwapCached:        12568 kB
+Active:          1061740 kB
+Inactive:        1060288 kB
+Active(anon):     760460 kB
+Inactive(anon):   757816 kB
+Active(file):     301280 kB
+Inactive(file):   302472 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:            340 kB
+Dirty:              2472 kB
+Writeback:             0 kB
+AnonPages:       1506276 kB
+Mapped:           481660 kB
+Shmem:              6780 kB
+Slab:             288168 kB
+SReclaimable:      71096 kB
+SUnreclaim:       217072 kB
+KernelStack:       76720 kB
+PageTables:       116148 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   168666964 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-28-05
+run this app : Kindle
+
+MemTotal:        5474772 kB
+MemFree:          114468 kB
+MemAvailable:     603800 kB
+Buffers:            4528 kB
+Cached:           628192 kB
+SwapCached:        14196 kB
+Active:          1040656 kB
+Inactive:        1202356 kB
+Active(anon):     785892 kB
+Inactive(anon):   832064 kB
+Active(file):     254764 kB
+Inactive(file):   370292 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:         267876 kB
+Dirty:              2560 kB
+Writeback:             0 kB
+AnonPages:       1604336 kB
+Mapped:           502608 kB
+Shmem:              7116 kB
+Slab:             287080 kB
+SReclaimable:      70280 kB
+SUnreclaim:       216800 kB
+KernelStack:       76752 kB
+PageTables:       112632 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   160443704 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-28-23
+run this app : Firefox
+
+MemTotal:        5474772 kB
+MemFree:           95684 kB
+MemAvailable:     766208 kB
+Buffers:            7040 kB
+Cached:           802648 kB
+SwapCached:        12316 kB
+Active:          1114376 kB
+Inactive:        1141300 kB
+Active(anon):     717224 kB
+Inactive(anon):   732716 kB
+Active(file):     397152 kB
+Inactive(file):   408584 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:           8476 kB
+Dirty:              1472 kB
+Writeback:             4 kB
+AnonPages:       1441352 kB
+Mapped:           629268 kB
+Shmem:              3680 kB
+Slab:             288056 kB
+SReclaimable:      71300 kB
+SUnreclaim:       216756 kB
+KernelStack:       79696 kB
+PageTables:       115640 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   164399256 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:              12 kB
+
+
+
+2023-04-13_00-28-47
+run this app : Coinbase
+
+MemTotal:        5474772 kB
+MemFree:          102224 kB
+MemAvailable:     675640 kB
+Buffers:            7628 kB
+Cached:           705008 kB
+SwapCached:        11204 kB
+Active:          1132096 kB
+Inactive:        1108720 kB
+Active(anon):     778296 kB
+Inactive(anon):   753852 kB
+Active(file):     353800 kB
+Inactive(file):   354868 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:           2084 kB
+Dirty:               724 kB
+Writeback:             0 kB
+AnonPages:       1524488 kB
+Mapped:           637464 kB
+Shmem:              3808 kB
+Slab:             287968 kB
+SReclaimable:      71220 kB
+SUnreclaim:       216748 kB
+KernelStack:       78960 kB
+PageTables:       116152 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   166299028 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            1788 kB
+
+
+
+2023-04-13_00-29-15
+run this app : Candy Crush Soda
+
+MemTotal:        5474772 kB
+MemFree:          104524 kB
+MemAvailable:     532636 kB
+Buffers:            5516 kB
+Cached:           561980 kB
+SwapCached:        10996 kB
+Active:          1062600 kB
+Inactive:        1063796 kB
+Active(anon):     781924 kB
+Inactive(anon):   781072 kB
+Active(file):     280676 kB
+Inactive(file):   282724 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:            644 kB
+Dirty:              1580 kB
+Writeback:             0 kB
+AnonPages:       1555548 kB
+Mapped:           460936 kB
+Shmem:              3720 kB
+Slab:             287836 kB
+SReclaimable:      71148 kB
+SUnreclaim:       216688 kB
+KernelStack:       78112 kB
+PageTables:       117128 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   168169220 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-29-42
+run this app : Kids Transport
+
+MemTotal:        5474772 kB
+MemFree:          127140 kB
+MemAvailable:     967024 kB
+Buffers:            9084 kB
+Cached:           969940 kB
+SwapCached:        13048 kB
+Active:          1194984 kB
+Inactive:        1192812 kB
+Active(anon):     706556 kB
+Inactive(anon):   706048 kB
+Active(file):     488428 kB
+Inactive(file):   486764 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:         168184 kB
+Dirty:               580 kB
+Writeback:             0 kB
+AnonPages:       1403652 kB
+Mapped:           681064 kB
+Shmem:              3488 kB
+Slab:             287636 kB
+SReclaimable:      71108 kB
+SUnreclaim:       216528 kB
+KernelStack:       73504 kB
+PageTables:       112484 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   166350180 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            1028 kB
+
+
+
+2023-04-13_00-30-10
+run this app : Hill Climb Racing
+
+MemTotal:        5474772 kB
+MemFree:           91328 kB
+MemAvailable:     803568 kB
+Buffers:           12052 kB
+Cached:           839956 kB
+SwapCached:        11336 kB
+Active:          1099828 kB
+Inactive:        1097892 kB
+Active(anon):     674872 kB
+Inactive(anon):   675412 kB
+Active(file):     424956 kB
+Inactive(file):   422480 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:            192 kB
+Dirty:              1688 kB
+Writeback:             0 kB
+AnonPages:       1342580 kB
+Mapped:           676464 kB
+Shmem:              4192 kB
+Slab:             287844 kB
+SReclaimable:      71332 kB
+SUnreclaim:       216512 kB
+KernelStack:       76320 kB
+PageTables:       116372 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   169764724 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-30-28
+run this app : Call Recorder
+
+MemTotal:        5474772 kB
+MemFree:           90316 kB
+MemAvailable:     806212 kB
+Buffers:            7188 kB
+Cached:           847908 kB
+SwapCached:        12728 kB
+Active:          1226592 kB
+Inactive:        1032816 kB
+Active(anon):     698796 kB
+Inactive(anon):   709940 kB
+Active(file):     527796 kB
+Inactive(file):   322876 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:          13252 kB
+Dirty:              5064 kB
+Writeback:             0 kB
+AnonPages:       1400332 kB
+Mapped:           582000 kB
+Shmem:              4204 kB
+Slab:             288808 kB
+SReclaimable:      72172 kB
+SUnreclaim:       216636 kB
+KernelStack:       77952 kB
+PageTables:       118476 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   173140896 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-30-44
+run this app : Kik
+
+MemTotal:        5474772 kB
+MemFree:          104612 kB
+MemAvailable:     691132 kB
+Buffers:            6880 kB
+Cached:           719416 kB
+SwapCached:        14412 kB
+Active:          1111852 kB
+Inactive:        1098572 kB
+Active(anon):     751796 kB
+Inactive(anon):   737140 kB
+Active(file):     360056 kB
+Inactive(file):   361432 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:             72 kB
+Dirty:              1416 kB
+Writeback:             0 kB
+AnonPages:       1478084 kB
+Mapped:           563464 kB
+Shmem:              4352 kB
+Slab:             289760 kB
+SReclaimable:      71788 kB
+SUnreclaim:       217972 kB
+KernelStack:       80784 kB
+PageTables:       122952 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   180422732 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               4 kB
+
+
+
+2023-04-13_00-31-07
+run this app : Color Fill 3D
+
+MemTotal:        5474772 kB
+MemFree:           68652 kB
+MemAvailable:     528560 kB
+Buffers:            5456 kB
+Cached:           595604 kB
+SwapCached:        14132 kB
+Active:          1076404 kB
+Inactive:        1068368 kB
+Active(anon):     778072 kB
+Inactive(anon):   771560 kB
+Active(file):     298332 kB
+Inactive(file):   296808 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:               428 kB
+Writeback:             0 kB
+AnonPages:       1538440 kB
+Mapped:           501072 kB
+Shmem:              4592 kB
+Slab:             288612 kB
+SReclaimable:      71260 kB
+SUnreclaim:       217352 kB
+KernelStack:       79664 kB
+PageTables:       118268 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   167601368 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             448 kB
+
+
+
+2023-04-13_00-31-26
+run this app : Etsy
+
+MemTotal:        5474772 kB
+MemFree:           97200 kB
+MemAvailable:     778136 kB
+Buffers:            9760 kB
+Cached:           811132 kB
+SwapCached:        10976 kB
+Active:          1151472 kB
+Inactive:        1168128 kB
+Active(anon):     747544 kB
+Inactive(anon):   755968 kB
+Active(file):     403928 kB
+Inactive(file):   412160 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:           4496 kB
+Dirty:              1296 kB
+Writeback:             0 kB
+AnonPages:       1494984 kB
+Mapped:           619608 kB
+Shmem:              4384 kB
+Slab:             288588 kB
+SReclaimable:      71420 kB
+SUnreclaim:       217168 kB
+KernelStack:       81264 kB
+PageTables:       119128 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   169579780 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-31-39
+run this app : Pi
+
+MemTotal:        5474772 kB
+MemFree:           94724 kB
+MemAvailable:     828152 kB
+Buffers:           10420 kB
+Cached:           864512 kB
+SwapCached:        11968 kB
+Active:          1191208 kB
+Inactive:        1179544 kB
+Active(anon):     746168 kB
+Inactive(anon):   756164 kB
+Active(file):     445040 kB
+Inactive(file):   423380 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:          76124 kB
+Dirty:               128 kB
+Writeback:             0 kB
+AnonPages:       1493372 kB
+Mapped:           651664 kB
+Shmem:              4396 kB
+Slab:             288828 kB
+SReclaimable:      71740 kB
+SUnreclaim:       217088 kB
+KernelStack:       80768 kB
+PageTables:       119356 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   172294472 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             244 kB
+
+
+
+2023-04-13_00-32-02
+run this app : Soccer Star
+
+MemTotal:        5474772 kB
+MemFree:           92284 kB
+MemAvailable:     689912 kB
+Buffers:            4648 kB
+Cached:           733228 kB
+SwapCached:        12580 kB
+Active:          1200472 kB
+Inactive:        1220448 kB
+Active(anon):     882932 kB
+Inactive(anon):   805080 kB
+Active(file):     317540 kB
+Inactive(file):   415368 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:         373000 kB
+Dirty:              1444 kB
+Writeback:             0 kB
+AnonPages:       1677888 kB
+Mapped:           586164 kB
+Shmem:              4744 kB
+Slab:             288584 kB
+SReclaimable:      71168 kB
+SUnreclaim:       217416 kB
+KernelStack:       75536 kB
+PageTables:       115132 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   166459844 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:              24 kB
+
+
+
+2023-04-13_00-32-17
+run this app : Puffin
+
+MemTotal:        5474772 kB
+MemFree:          100756 kB
+MemAvailable:     888596 kB
+Buffers:            7660 kB
+Cached:           920660 kB
+SwapCached:        12084 kB
+Active:          1193648 kB
+Inactive:        1180968 kB
+Active(anon):     724832 kB
+Inactive(anon):   726860 kB
+Active(file):     468816 kB
+Inactive(file):   454108 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:          22792 kB
+Dirty:              2040 kB
+Writeback:             0 kB
+AnonPages:       1442336 kB
+Mapped:           594124 kB
+Shmem:              4860 kB
+Slab:             289028 kB
+SReclaimable:      71556 kB
+SUnreclaim:       217472 kB
+KernelStack:       78672 kB
+PageTables:       117820 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   169860148 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             456 kB
+
+
+
+2023-04-13_00-32-38
+run this app : Crunchyroll
+
+MemTotal:        5474772 kB
+MemFree:           97676 kB
+MemAvailable:     852248 kB
+Buffers:            9340 kB
+Cached:           883076 kB
+SwapCached:        12616 kB
+Active:          1178860 kB
+Inactive:        1181464 kB
+Active(anon):     731456 kB
+Inactive(anon):   739420 kB
+Active(file):     447404 kB
+Inactive(file):   442044 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:           2176 kB
+Dirty:               760 kB
+Writeback:             0 kB
+AnonPages:       1463020 kB
+Mapped:           669472 kB
+Shmem:              2932 kB
+Slab:             289380 kB
+SReclaimable:      71976 kB
+SUnreclaim:       217404 kB
+KernelStack:       80896 kB
+PageTables:       121556 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   175753040 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             236 kB
+
+
+
+2023-04-13_00-32-57
+run this app : VLC
+
+MemTotal:        5474772 kB
+MemFree:           92152 kB
+MemAvailable:     810696 kB
+Buffers:            9120 kB
+Cached:           847348 kB
+SwapCached:        12764 kB
+Active:          1186084 kB
+Inactive:        1170856 kB
+Active(anon):     758952 kB
+Inactive(anon):   744552 kB
+Active(file):     427132 kB
+Inactive(file):   426304 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:           3584 kB
+Dirty:               184 kB
+Writeback:             0 kB
+AnonPages:       1495252 kB
+Mapped:           675136 kB
+Shmem:              3156 kB
+Slab:             289824 kB
+SReclaimable:      71940 kB
+SUnreclaim:       217884 kB
+KernelStack:       81632 kB
+PageTables:       123600 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   179643424 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:               0 kB
+
+
+
+2023-04-13_00-33-15
+run this app : eToro
+
+MemTotal:        5474772 kB
+MemFree:           91480 kB
+MemAvailable:     657268 kB
+Buffers:            6460 kB
+Cached:           697292 kB
+SwapCached:        13964 kB
+Active:          1251856 kB
+Inactive:        1127268 kB
+Active(anon):     898780 kB
+Inactive(anon):   779556 kB
+Active(file):     353076 kB
+Inactive(file):   347712 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:              2400 kB
+Writeback:             0 kB
+AnonPages:       1668224 kB
+Mapped:           620640 kB
+Shmem:              3268 kB
+Slab:             290016 kB
+SReclaimable:      71724 kB
+SUnreclaim:       218292 kB
+KernelStack:       81568 kB
+PageTables:       125088 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   181087512 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            4704 kB
+
+
+
+2023-04-13_00-33-35
+run this app : GroupMe
+
+MemTotal:        5474772 kB
+MemFree:          121208 kB
+MemAvailable:     675388 kB
+Buffers:            7352 kB
+Cached:           685416 kB
+SwapCached:        13808 kB
+Active:          1175936 kB
+Inactive:        1151012 kB
+Active(anon):     826272 kB
+Inactive(anon):   811224 kB
+Active(file):     349664 kB
+Inactive(file):   339788 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:              0 kB
+Dirty:              2556 kB
+Writeback:             0 kB
+AnonPages:       1627440 kB
+Mapped:           575316 kB
+Shmem:              3296 kB
+Slab:             289580 kB
+SReclaimable:      71180 kB
+SUnreclaim:       218400 kB
+KernelStack:       80672 kB
+PageTables:       122352 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   173345292 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:             428 kB
+
+
+
+2023-04-13_00-34-09
+run this app : DNA Evolution 3D
+
+MemTotal:        5474772 kB
+MemFree:          166408 kB
+MemAvailable:     774768 kB
+Buffers:           24912 kB
+Cached:           722376 kB
+SwapCached:        11428 kB
+Active:          1161132 kB
+Inactive:        1100944 kB
+Active(anon):     747564 kB
+Inactive(anon):   770740 kB
+Active(file):     413568 kB
+Inactive(file):   330204 kB
+Unevictable:         776 kB
+Mlocked:             776 kB
+SwapTotal:       2621436 kB
+SwapFree:         172096 kB
+Dirty:              4360 kB
+Writeback:             0 kB
+AnonPages:       1511672 kB
+Mapped:           489176 kB
+Shmem:              3268 kB
+Slab:             289016 kB
+SReclaimable:      70904 kB
+SUnreclaim:       218112 kB
+KernelStack:       79408 kB
+PageTables:       117944 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:     5358820 kB
+Committed_AS:   167820820 kB
+VmallocTotal:   258998208 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+CmaTotal:         106496 kB
+CmaFree:            3396 kB
+
+
+
