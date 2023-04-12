@@ -1,6 +1,7 @@
 import os
 import signal
 import time
+import string
 import subprocess
 import compare
 import scenario
@@ -74,8 +75,9 @@ scenarios = scenario.SCENARIO * 5
 videos = []
 for app in scenarios:
     print("\nrun : {} [{}/{}] ".format(app, sequence, len(scenarios)))
-    record_cmd = f"adb shell screenrecord --size 1440x2960 /sdcard/{sequence}_{app}.mp4"
-    videos.append(f"/sdcard/{sequence}_{app}.mp4")
+    app_ = app.translate(str.maketrans("", "", string.punctuation)).replace(" ", "_")
+    record_cmd = f"adb shell screenrecord --size 1440x2960 /sdcard/{sequence}_{app_}.mp4"
+    videos.append(f"/sdcard/{sequence}_{app_}.mp4")
     record = subprocess.Popen(record_cmd, stdout=subprocess.PIPE, shell=False)
     time.sleep(1)
 
